@@ -110,7 +110,7 @@
 (global-set-key (kbd "M-<up>") 'shrink-window)
 (global-set-key (kbd "M-<left>") 'enlarge-window-horizontally)
 (global-set-key (kbd "M-<right>") 'shrink-window-horizontally)
-(global-set-key (kbd "C-c c") 'compile)
+(global-set-key (kbd "C-x c") 'recompile)
 (global-set-key (kbd "C-c s") 'shell)
 
 ;; Coisas automáticas do melpa
