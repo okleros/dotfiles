@@ -12,7 +12,7 @@
 (global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
 
 ;; Fonte padrão
-(set-frame-font "Ubuntu Mono-12" nil t)
+(set-frame-font "Ubuntu Mono-14" nil t)
 
 ;; Remover boas vindas
 (setq inhibit-startup-screen t)
@@ -61,7 +61,7 @@
   :config
   (progn
     (which-key-setup-side-window-right-bottom)
-    (which-key-mode)))  
+    (which-key-mode)))
 
 (use-package auto-complete
   :ensure t
@@ -87,6 +87,10 @@
  :ensure
  :config (load-theme 'gruber-darker t))
 
+(use-package flycheck
+  :ensure t
+  :init (global-flycheck-mode t))
+
 (customize-set-variable 'timu-caribbean-org-intense-colors t)
 (customize-set-variable 'timu-caribbean-mode-line-border t)
 
@@ -106,7 +110,8 @@
 (global-set-key (kbd "M-<up>") 'shrink-window)
 (global-set-key (kbd "M-<left>") 'enlarge-window-horizontally)
 (global-set-key (kbd "M-<right>") 'shrink-window-horizontally)
-
+(global-set-key (kbd "C-c c") 'compile)
+(global-set-key (kbd "C-c s") 'shell)
 
 ;; Coisas automáticas do melpa
 (custom-set-variables
@@ -120,9 +125,9 @@
    '("69f7e8101867cfac410e88140f8c51b4433b93680901bb0b52014144366a08c8" "4df2cb7ac1a6a1651a5a288f7ae8b475b1b821641849b348474e25d5549bd2d9" default))
  '(ispell-dictionary nil)
  '(package-selected-packages
-   '(smex gruber-darker-theme timu-macos-theme timu-macos modus-themes timu-caribbean-theme ace-window all-the-icons neotree auto-complete which-key try use-package))
- '(timu-caribbean-mode-line-border t)
- '(timu-caribbean-org-intense-colors nil))
+   '(flycheck smex gruber-darker-theme timu-macos-theme timu-macos modus-themes timu-caribbean-theme ace-window all-the-icons neotree auto-complete which-key try use-package))
+ '(timu-caribbean-mode-line-border t t)
+ '(timu-caribbean-org-intense-colors nil t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
