@@ -91,6 +91,9 @@
   :ensure t
   :init (global-flycheck-mode t))
 
+(use-package multiple-cursors
+  :ensure t)
+
 (customize-set-variable 'timu-caribbean-org-intense-colors t)
 (customize-set-variable 'timu-caribbean-mode-line-border t)
 
@@ -113,6 +116,12 @@
 (global-set-key (kbd "C-x c") 'recompile)
 (global-set-key (kbd "C-c s") 'shell)
 
+;; Atalhos do multiple-cursors
+(global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
+(global-set-key (kbd "C->") 'mc/mark-next-like-this)
+(global-set-key (kbd "C-<") 'mc/mark-previous-like-this)
+(global-set-key (kbd "C-c C-<") 'mc/mark-all-like-this)
+
 ;; Coisas automáticas do melpa
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -125,7 +134,7 @@
    '("69f7e8101867cfac410e88140f8c51b4433b93680901bb0b52014144366a08c8" "4df2cb7ac1a6a1651a5a288f7ae8b475b1b821641849b348474e25d5549bd2d9" default))
  '(ispell-dictionary nil)
  '(package-selected-packages
-   '(flycheck smex gruber-darker-theme timu-macos-theme timu-macos modus-themes timu-caribbean-theme ace-window all-the-icons neotree auto-complete which-key try use-package))
+   '(multiple-cursors flycheck smex gruber-darker-theme timu-macos-theme timu-macos modus-themes timu-caribbean-theme ace-window all-the-icons neotree auto-complete which-key try use-package))
  '(timu-caribbean-mode-line-border t t)
  '(timu-caribbean-org-intense-colors nil t))
 (custom-set-faces
