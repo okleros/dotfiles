@@ -12,7 +12,7 @@
 (global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
 
 ;; Fonte padrão
-(set-frame-font "Ubuntu Mono-14" nil t)
+(set-frame-font "Ubuntu Mono-12" nil t)
 
 ;; Remover boas vindas
 (setq inhibit-startup-screen t)
@@ -24,8 +24,11 @@
 ;; Remover barra de rolagem
 (scroll-bar-mode -1)
 
+;; (require 'linum)
+
 ;; Números nas linhas
-(global-linum-mode t)
+;; (global-linum-mode t)
+(global-display-line-numbers-mode t)
 
 ;; Tamanho da fonte
 (set-face-attribute 'default nil :height 115)
@@ -74,10 +77,10 @@
   :ensure t
   :if (display-graphic-p))
 
-(use-package neotree
-  :ensure t
-  :bind (("C-\\" . 'neotree-toggle))
-  :config (setq neo-theme (if (display-graphic-p) 'icons 'arrow)))
+;;(use-package neotree
+;;  :ensure t
+;;  :bind (("C-\\" . 'neotree-toggle))
+;;  :config (setq neo-theme (if (display-graphic-p) 'icons 'arrow)))
 
 (use-package ace-window
   :ensure t
@@ -96,16 +99,6 @@
 
 (customize-set-variable 'timu-caribbean-org-intense-colors t)
 (customize-set-variable 'timu-caribbean-mode-line-border t)
-
-;;(use-package ergoemacs-mode
-;;  :ensure t
-;;  :config
-;;  (progn
-;;    (setq ergoemacs-theme nil)
-;;    (setq ergoemacs-keyboard-layout "us")
-;;    (ergoemacs-mode 1)))
-
-;;(ergoemacs-mode nil)
 
 ;; Meus atalhos
 (global-set-key (kbd "C-<tab>") 'other-window)
