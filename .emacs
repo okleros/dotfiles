@@ -4,6 +4,9 @@
 ;; Variável personalizada própria
 (setq custom-tab-width 4)
 
+;; Remove barra de título
+(setq default-frame-alist '((undecorated . t)))
+
 ;; Auto-complete para C-x C-f
 (ido-mode 1)
 
@@ -12,7 +15,7 @@
 (global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
 
 ;; Fonte padrão
-(set-frame-font "Ubuntu Mono-12" nil t)
+(set-frame-font "Victor Mono-10" nil t)
 
 ;; Remover boas vindas
 (setq inhibit-startup-screen t)
@@ -24,10 +27,7 @@
 ;; Remover barra de rolagem
 (scroll-bar-mode -1)
 
-;; (require 'linum)
-
 ;; Números nas linhas
-;; (global-linum-mode t)
 (global-display-line-numbers-mode t)
 
 ;; Tamanho da fonte
@@ -73,14 +73,16 @@
     (ac-config-default)
     (global-auto-complete-mode t)))
 
+(require 'all-the-icons)
+
 (use-package all-the-icons
   :ensure t
   :if (display-graphic-p))
 
-;;(use-package neotree
-;;  :ensure t
-;;  :bind (("C-\\" . 'neotree-toggle))
-;;  :config (setq neo-theme (if (display-graphic-p) 'icons 'arrow)))
+(use-package neotree
+  :ensure t
+  :bind (("C-\\" . 'neotree-toggle)))
+  ;;:config (setq neo-theme (if (display-graphic-p) 'icons 'arrow)))
 
 (use-package ace-window
   :ensure t
@@ -106,7 +108,7 @@
 (global-set-key (kbd "M-<up>") 'shrink-window)
 (global-set-key (kbd "M-<left>") 'enlarge-window-horizontally)
 (global-set-key (kbd "M-<right>") 'shrink-window-horizontally)
-(global-set-key (kbd "C-x c") 'recompile)
+(global-set-key (kbd "C-x c") 'compile)
 (global-set-key (kbd "C-c s") 'shell)
 
 ;; Atalhos do multiple-cursors
