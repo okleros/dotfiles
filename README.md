@@ -3,5 +3,7 @@ Apenas alguns arquivos de configuração de softwares que uso ativamente no dia 
 
 ## Requerimentos
 > Emacs 23.* ou superior
+
 > Kitty
+
 > Fish
