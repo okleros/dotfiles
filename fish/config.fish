@@ -30,9 +30,11 @@ abbr -a -g h 'history'																								# Show history
 # abbr -a -g fucking 'sudo'																						# Rude way to sudo
 # abbr -a -g fish_priv 'fish --private'																				# Fish incognito mode
 abbr -a -g untar 'tar -zxvf'																					# Untar
-# abbr -a -g edit 'micro'
-abbr -a -g ls 'ls -A'
-abbr -a -g pdi 'cd /home/okleros/Documents/dev/c++/image_processor'
+abbr -a -g edit 'micro'
+abbr -a -g godot 'godot --rendering-driver opengl3 &'
+abbr -a -g install 'sudo pacman -S'
+# abbr -a -g ls 'ls -A'
+# abbr -a -g pdi 'cd /home/okleros/Documents/dev/c++/image_processor'
 
 # if status is-interactive
 # cd /home/ramos/
