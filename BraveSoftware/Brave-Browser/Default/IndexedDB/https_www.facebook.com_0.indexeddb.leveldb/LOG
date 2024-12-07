@@ -1,7 +1,0 @@
-2024/10/14-12:29:57.135 c77 Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/14-12:29:57.135 c77 Recovering log #3
-2024/10/14-12:29:57.149 c77 Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000003.log 
-2024/10/14-22:34:21.978 c76 Level-0 table #5: started
-2024/10/14-22:34:22.052 c76 Level-0 table #5: 187311 bytes OK
-2024/10/14-22:34:22.147 c76 Delete type=0 #3
-2024/10/14-22:34:22.148 c76 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

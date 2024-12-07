@@ -1,9 +1,0 @@
-2024/10/17-01:07:52.656 68e Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/17-01:07:52.657 68e Recovering log #29
-2024/10/17-01:07:52.678 68e Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000029.log 
-2024/10/17-01:07:55.467 690 Compacting 1@1 + 1@2 files
-2024/10/17-01:07:55.522 690 Generated table #32@1: 104 keys, 152946 bytes
-2024/10/17-01:07:55.522 690 Compacted 1@1 + 1@2 files => 152946 bytes
-2024/10/17-01:07:55.535 690 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/10/17-01:07:55.536 690 Delete type=2 #30
-2024/10/17-01:07:55.536 690 Delete type=2 #28

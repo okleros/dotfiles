@@ -1,9 +1,0 @@
-{
-	"ignored_packages":
-	[
-		"Vintage",
-	],
-	"index_files": true,
-	"color_scheme": "Packages/Monocyanide Colorscheme/Monocyanide ColorScheme - Constrasted Semi.tmTheme",
-	"theme": "Material-Theme-Darker.sublime-theme",
-}

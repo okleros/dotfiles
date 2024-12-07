@@ -1,6 +1,0 @@
-2024/10/07-18:30:26.236 1e97b Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shopee.com.br_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/07-18:30:26.236 1e97b Recovering log #7
-2024/10/07-18:30:26.255 1e97b Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shopee.com.br_0.indexeddb.leveldb/000007.log 
-2024/10/07-18:33:47.712 1e97b Level-0 table #12: started
-2024/10/07-18:33:47.843 1e97b Level-0 table #12: 1281832 bytes OK
-2024/10/07-18:33:47.958 1e97b Delete type=0 #7

@@ -1,6 +1,0 @@
-2024/10/17-15:08:31.422 68e Creating DB /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb since it was missing.
-2024/10/17-15:08:31.650 68e Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_medium.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/17-15:09:41.759 68f Level-0 table #5: started
-2024/10/17-15:09:41.769 68f Level-0 table #5: 16414 bytes OK
-2024/10/17-15:09:41.782 68f Delete type=0 #3
-2024/10/17-15:09:41.783 68f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
