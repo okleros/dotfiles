@@ -1,0 +1,176 @@
+2024-10-14 17:48:43.254 - [ 13715] - [     1] - ERROR - [Unity.Licensing.Client.Services.PeriodicBorrowFeatureStatusService] Could not initialize the floating licensing service: Invalid servicesConfiguration for licensing. Make sure the licensingServiceBaseUrl servicesConfiguration is a valid URL
+2024-10-14 17:48:43.402 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Program] cloudEnvironment: production
+2024-10-14 17:48:43.403 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Program] Client product version: 1.15.8+6332f58
+2024-10-14 17:48:43.403 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Program] Client assembly version: 1.15.8.0
+2024-10-14 17:48:43.403 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Program] File version: 1.15.8 (/opt/unityhub/UnityLicensingClient_V1/Unity.Licensing.Client.dll)
+2024-10-14 17:48:43.404 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Program] Current OS: Linux 6.11.1-arch1-1 #1 SMP PREEMPT_DYNAMIC Mon, 30 Sep 2024 23:49:50 +0000
+2024-10-14 17:48:43.404 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Program] Command line arguments:  --namedPipe Unity-LicenseClient-okleros --cloudEnvironment production
+2024-10-14 17:48:43.409 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Program] Analytics CorrelationId: de50e04209cd67729b212b423c081f71
+2024-10-14 17:48:43.414 - [ 13715] - [    13] - INFO  - [Unity.Licensing.Client.PipeServerExecutor] GlobalMutex Unity-LicenseClient-okleros created (on thread: 13)
+2024-10-14 17:48:43.415 - [ 13715] - [     1] - WARN  - [Unity.Licensing.Client.Services.LicensingOrchestrator] Floating licensing service disabled: Invalid servicesConfiguration for licensing. Make sure the licensingServiceBaseUrl servicesConfiguration is a valid URL
+2024-10-14 17:48:43.416 - [ 13715] - [     1] - WARN  - [Unity.Licensing.Client.Services.LicensingOrchestrator] Licensing replication disabled: Failed to acquire Licensing Service URL from configuration under configuration key: licensingServiceBaseUrl
+2024-10-14 17:48:43.422 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.423 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0006660
+2024-10-14 17:48:43.445 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Services.Replication.InactiveLicenseFileCleaner] Start cleaning expired and inactive license file(s): 
+
+2024-10-14 17:48:43.446 - [ 13715] - [     1] - INFO  - [Unity.Licensing.Client.Services.Replication.InactiveLicenseFileCleaner] Cleanup finished successfully, deleted 0 expired license file(s)
+2024-10-14 17:48:43.447 - [ 13715] - [     1] - WARN  - [Unity.Licensing.Client.Services.LicensingOrchestrator] Unable to find valid licenses and remote licensing service is not configured
+2024-10-14 17:48:43.460 - [ 13715] - [    10] - INFO  - [Unity.Licensing.Client.Services.Package.PackageEnforcer] Trying to update PACL ...
+2024-10-14 17:48:43.465 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Starting named pipe server (on thread: 6)
+2024-10-14 17:48:43.472 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Named pipe server started
+2024-10-14 17:48:43.472 - [ 13715] - [.NET Long Running Task] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Waiting for a connection (pipe #1)
+2024-10-14 17:48:43.473 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Starting named pipe server (on thread: 6)
+2024-10-14 17:48:43.474 - [ 13715] - [    10] - INFO  - [Unity.Licensing.Client.Services.Package.PackageService] Getting PACL from remote uri: "https://license.unity3d.com/licenses/v1/packages/acl" ...
+2024-10-14 17:48:43.475 - [ 13715] - [.NET Long Running Task] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Waiting for a connection (pipe #1)
+2024-10-14 17:48:43.476 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Named pipe server started
+2024-10-14 17:48:43.484 - [ 13715] - [.NET Long Running Task] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Waiting for a connection (pipe #2)
+2024-10-14 17:48:43.491 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] new pipe session: 7833e23c718d4862898b80eab50eed7e
+2024-10-14 17:48:43.495 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] A new client is connecting (pipe #1)
+2024-10-14 17:48:43.496 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] Start accepting requests
+2024-10-14 17:48:43.513 - [ 13715] - [    19] - INFO  - [Unity.Licensing.Client.Configuration.ClientConfigurationLoader] Downloaded remote config from: "https://public-cdn.cloud.unity3d.com/config/production"
+2024-10-14 17:48:43.538 - [ 13715] - [    19] - INFO  - [Unity.Licensing.Client.Configuration.ClientConfigurationLoader] Unity remote config is updated: "/home/okleros/.config/unity3d/Unity/config/production.json"
+2024-10-14 17:48:43.571 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.Controllers.HandshakeController] Received handshake from: Hub 3.9.1 (LocalIPC/1.15.8)
+2024-10-14 17:48:43.586 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-1 | Sending HandshakeResponse for request HandshakeRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Handshake successful
+2024-10-14 17:48:43.592 - [ 13715] - [.NET Long Running Task] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Waiting for a connection (pipe #2)
+2024-10-14 17:48:43.593 - [ 13715] - [    21] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] A new client is connecting (pipe #1)
+2024-10-14 17:48:43.616 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.Controllers.AccessTokenController] Access token is empty, user logged out
+2024-10-14 17:48:43.619 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-2 | Sending AccessTokenResponse for request AccessTokenRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  (null)
+2024-10-14 17:48:43.628 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.628 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000200
+2024-10-14 17:48:43.632 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.632 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000192
+2024-10-14 17:48:43.637 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-3 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:48:43.639 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.639 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000096
+2024-10-14 17:48:43.639 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.639 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000055
+2024-10-14 17:48:43.639 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-4 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:48:43.659 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.659 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000065
+2024-10-14 17:48:43.659 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.660 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000036
+2024-10-14 17:48:43.660 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-5 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:48:43.671 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.671 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000092
+2024-10-14 17:48:43.672 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:43.672 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000041
+2024-10-14 17:48:43.672 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-6 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:48:48.766 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:48.766 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000144
+2024-10-14 17:48:48.767 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:48.767 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000095
+2024-10-14 17:48:48.767 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-7 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:48:48.927 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-8 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Found 0 entitlements
+2024-10-14 17:48:49.408 - [ 13715] - [     8] - INFO  - [Unity.Licensing.Client.Services.Package.PackageService] New PACL file is written successfully from remote uri: "https://license.unity3d.com/licenses/v1/packages/acl"
+2024-10-14 17:48:49.414 - [ 13715] - [    10] - INFO  - [Unity.Licensing.Client.Services.Package.PackageEnforcer] Successfully updated PACL file after 1 attempt(s). Next update in 24.00 hours.
+2024-10-14 17:48:49.415 - [ 13715] - [    10] - INFO  - [Unity.Licensing.Client.Services.Package.PackageEnforcer] Loading remote PACL, revision: 39, version: 1.0
+2024-10-14 17:48:50.870 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:50.871 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000260
+2024-10-14 17:48:50.872 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:48:50.872 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000146
+2024-10-14 17:48:50.872 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-9 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:48:50.891 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-10 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Found 0 entitlements
+2024-10-14 17:49:43.465 - [ 13715] - [     8] - INFO  - [Unity.Licensing.Client.Services.LicenseOfflineValidityEndingPeriodicNotifierService] Will execute periodic notification again in 00:30:00
+2024-10-14 17:49:48.829 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-11 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Found 0 entitlements
+2024-10-14 17:51:33.406 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:51:33.409 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0007416
+2024-10-14 17:51:33.410 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:51:33.412 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000246
+2024-10-14 17:51:33.413 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-12 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:56:05.028 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-13 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Found 0 entitlements
+2024-10-14 17:56:05.037 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.Controllers.AccessTokenController] Got access token (expires in 30758400 seconds)
+2024-10-14 17:56:05.038 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-14 | Sending AccessTokenResponse for request AccessTokenRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  (null)
+2024-10-14 17:56:05.057 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:56:05.057 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000107
+2024-10-14 17:56:05.057 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  
+2024-10-14 17:56:05.057 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 0 license files in 00:00:00.0000057
+2024-10-14 17:56:05.057 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-15 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 0 groups
+2024-10-14 17:56:11.016 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Licensing.GenesisLicensingService] Attempting to contact genesis update license api
+2024-10-14 17:56:11.328 - [ 13715] - [    28] - INFO  - [Unity.Licensing.Client.Services.Licensing.GenesisLicensingService] Trying to write updated entitlement license file...
+2024-10-14 17:56:11.329 - [ 13715] - [    28] - INFO  - [Unity.Licensing.Client.Services.Licensing.GenesisLicensingService] Successfully updated license file
+2024-10-14 17:56:11.421 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.422 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.422 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.425 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0030905
+2024-10-14 17:56:11.433 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.LicenseOfflineValidityEndingPeriodicNotifierService] OnEntitlementResolverUpdated, will restart timer
+2024-10-14 17:56:11.435 - [ 13715] - [    28] - INFO  - [Unity.Licensing.Client.Services.Notification.NotificationHub] Sending notification to 1 client: [LicenseUpdate] License updated: Your license was updated sent on 2024-10-14T17:56:11.4322166Z[{"EntitlementGroupId":"4673724347758-UnityPersonal","ProductName":"Unity Personal","UpdateType":"Added","Reason":"EntitlementGroupAdded"}]
+2024-10-14 17:56:11.437 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-16 | Sending ActivationManagementResponse for request ActivationManagementRequest from Hub 3.9.1 (LocalIPC/1.15.8) [207]:  Successfully processed activation management call
+2024-10-14 17:56:11.442 - [ 13715] - [    26] - INFO  - [Unity.Licensing.Client.Services.LicenseOfflineValidityEndingPeriodicNotifierService] Will execute periodic notification again in 22.20:02:48.5583072
+2024-10-14 17:56:11.480 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.480 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.480 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.480 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0002274
+2024-10-14 17:56:11.498 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.498 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.498 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:11.498 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0000968
+2024-10-14 17:56:11.504 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-17 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 1 groups
+2024-10-14 17:56:11.519 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-18 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Found 1 entitlements
+2024-10-14 17:56:43.666 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:43.666 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:43.666 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:43.666 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0001370
+2024-10-14 17:56:43.675 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:43.675 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:43.675 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:56:43.675 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0000818
+2024-10-14 17:56:43.676 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-19 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 1 groups
+2024-10-14 17:57:43.668 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:57:43.675 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:57:43.675 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:57:43.675 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0001683
+2024-10-14 17:57:43.685 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:57:43.685 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:57:43.685 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:57:43.685 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0001227
+2024-10-14 17:57:43.686 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-20 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 1 groups
+2024-10-14 17:58:43.673 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:58:43.674 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:58:43.674 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:58:43.674 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0001997
+2024-10-14 17:58:43.690 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:58:43.691 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:58:43.691 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:58:43.691 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0001904
+2024-10-14 17:58:43.691 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-21 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 1 groups
+2024-10-14 17:59:43.667 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:59:43.667 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:59:43.667 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:59:43.667 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0000981
+2024-10-14 17:59:43.677 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:59:43.678 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:59:43.678 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 17:59:43.678 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0000942
+2024-10-14 17:59:43.678 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-22 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 1 groups
+2024-10-14 18:00:43.671 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:43.672 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:43.672 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:43.672 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0002833
+2024-10-14 18:00:43.684 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:43.684 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:43.684 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:43.684 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0001509
+2024-10-14 18:00:43.684 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-23 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 1 groups
+2024-10-14 18:00:46.706 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-24 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Found 1 entitlements
+2024-10-14 18:00:50.823 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:50.823 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:50.823 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:50.823 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0000976
+2024-10-14 18:00:50.834 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:50.834 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:50.834 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license /home/okleros/.config/unity3d/Unity/licenses/UnityEntitlementLicense.xml
+2024-10-14 18:00:50.834 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 1 license files in 00:00:00.0000937
+2024-10-14 18:00:50.834 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-25 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.9.1 (LocalIPC/1.15.8) [200]:  Success, found: 1 groups
+2024-10-14 18:00:51.513 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] Detected client disconnect
+2024-10-14 18:00:51.513 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] End accepting requests
+2024-10-14 18:00:51.513 - [ 13715] - [    32] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Connection closed (pipe #1)
+2024-10-14 18:00:51.513 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Connection closed (pipe #1)
+2024-10-14 18:00:51.516 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Services.LicensingOrchestrator] Last active session ended.
+2024-10-14 18:00:51.516 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.PipeServerExecutor] Starting licensing client's exit timer
+2024-10-14 18:00:51.516 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] Disposing named pipe
+2024-10-14 18:00:51.516 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Named pipe server is shutting down (thread: 6)
+2024-10-14 18:00:51.516 - [ 13715] - [    15] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] Disposing named pipe
+2024-10-14 18:00:51.522 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Named pipe server has shutdown
+2024-10-14 18:00:51.522 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Named pipe server is shutting down (thread: 6)
+2024-10-14 18:00:51.523 - [ 13715] - [     6] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Named pipe server has shutdown
+2024-10-14 18:00:51.527 - [ 13715] - [    13] - INFO  - [Unity.Licensing.Client.PipeServerExecutor] Releasing mutex Unity-LicenseClient-okleros (thread: 13)

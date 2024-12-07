@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------
+[Nov 03, 2024 2:25:44.0 AM GMT:ERROR:database_manager.cc(69)] Failed to create or open database
+[Nov 03, 2024 2:25:44.0 AM GMT:ERROR:ads_impl.cc(329)] Failed to create or open database
+[Nov 03, 2024 2:25:44.0 AM GMT:ERROR:ads_impl.cc(35)] Failed to initialize ads
+--------------------------------------------------------------------------------
+[Nov 03, 2024 3:07:21.3 AM GMT:ERROR:database_manager.cc(69)] Failed to create or open database
+[Nov 03, 2024 3:07:21.3 AM GMT:ERROR:ads_impl.cc(329)] Failed to create or open database
+[Nov 03, 2024 3:07:21.3 AM GMT:ERROR:ads_impl.cc(35)] Failed to initialize ads

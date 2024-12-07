@@ -1,0 +1,10 @@
+2024/10/03-23:06:39.710 c65e Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/03-23:06:39.711 c65e Recovering log #16
+2024/10/03-23:06:39.711 c65e Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000016.log 
+2024/10/03-23:06:47.930 c65e Level-0 table #21: started
+2024/10/03-23:06:47.973 c65e Level-0 table #21: 4077263 bytes OK
+2024/10/03-23:06:47.988 c65e Delete type=0 #16
+2024/10/03-23:06:48.025 c65f Compacting 1@1 + 1@2 files
+2024/10/03-23:06:48.049 c65f Generated table #22@1: 992 keys, 212407 bytes
+2024/10/03-23:06:48.049 c65f Compacted 1@1 + 1@2 files => 212407 bytes
+2024/10/03-23:06:48.070 c65f compacted to: files[ 0 0 1 0 0 0 0 ]

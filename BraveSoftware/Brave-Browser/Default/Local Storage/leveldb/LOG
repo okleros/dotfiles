@@ -1,0 +1,43 @@
+2024/12/01-23:03:55.795 4 Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/01-23:03:55.806 4 Recovering log #680
+2024/12/01-23:03:55.807 4 Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000680.log 
+2024/12/01-23:48:17.117 6 Level-0 table #684: started
+2024/12/01-23:48:17.132 6 Level-0 table #684: 23982 bytes OK
+2024/12/01-23:48:17.146 6 Delete type=0 #680
+2024/12/01-23:48:17.147 6 Compacting 4@0 + 2@1 files
+2024/12/01-23:48:17.203 6 Generated table #685@0: 1087 keys, 2198786 bytes
+2024/12/01-23:48:17.230 6 Generated table #686@0: 2859 keys, 933848 bytes
+2024/12/01-23:48:17.230 6 Compacted 4@0 + 2@1 files => 3132634 bytes
+2024/12/01-23:48:17.243 6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/12/01-23:48:17.245 6 Delete type=2 #675
+2024/12/01-23:48:17.245 6 Delete type=2 #674
+2024/12/01-23:48:17.245 6 Delete type=2 #677
+2024/12/01-23:48:17.245 6 Delete type=2 #681
+2024/12/01-23:48:17.245 6 Delete type=2 #684
+2024/12/01-23:48:17.246 6 Delete type=2 #679
+2024/12/01-23:57:01.786 6 Level-0 table #688: started
+2024/12/01-23:57:01.810 6 Level-0 table #688: 66485 bytes OK
+2024/12/01-23:57:01.843 6 Delete type=0 #683
+2024/12/02-00:01:16.891 4 Level-0 table #690: started
+2024/12/02-00:01:16.903 4 Level-0 table #690: 53999 bytes OK
+2024/12/02-00:01:16.918 4 Delete type=0 #687
+2024/12/02-01:03:51.048 4 Level-0 table #692: started
+2024/12/02-01:03:51.058 4 Level-0 table #692: 11254 bytes OK
+2024/12/02-01:03:51.072 4 Delete type=0 #689
+2024/12/02-02:55:51.049 6 Level-0 table #694: started
+2024/12/02-02:55:51.060 6 Level-0 table #694: 7119 bytes OK
+2024/12/02-02:55:51.074 6 Delete type=0 #691
+2024/12/02-02:55:51.075 6 Compacting 4@0 + 2@1 files
+2024/12/02-02:55:51.145 6 Generated table #695@0: 1099 keys, 2199031 bytes
+2024/12/02-02:55:51.175 6 Generated table #696@0: 2867 keys, 917712 bytes
+2024/12/02-02:55:51.175 6 Compacted 4@0 + 2@1 files => 3116743 bytes
+2024/12/02-02:55:51.188 6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/12/02-02:55:51.190 6 Delete type=2 #686
+2024/12/02-02:55:51.190 6 Delete type=2 #694
+2024/12/02-02:55:51.190 6 Delete type=2 #685
+2024/12/02-02:55:51.190 6 Delete type=2 #690
+2024/12/02-02:55:51.190 6 Delete type=2 #688
+2024/12/02-02:55:51.190 6 Delete type=2 #692
+2024/12/03-03:27:52.978 4 Level-0 table #698: started
+2024/12/03-03:27:52.989 4 Level-0 table #698: 8278 bytes OK
+2024/12/03-03:27:53.004 4 Delete type=0 #693

@@ -1,0 +1,6 @@
+2024/10/05-18:40:19.392 1bbcf Creating DB /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb since it was missing.
+2024/10/05-18:40:19.421 1bbcf Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/05-21:05:23.901 1bbcf Level-0 table #5: started
+2024/10/05-21:05:23.914 1bbcf Level-0 table #5: 268270 bytes OK
+2024/10/05-21:05:23.927 1bbcf Delete type=0 #3
+2024/10/05-21:05:23.928 1bbcf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

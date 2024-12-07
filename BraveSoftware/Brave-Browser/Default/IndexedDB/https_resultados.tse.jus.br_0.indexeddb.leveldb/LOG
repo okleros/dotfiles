@@ -1,0 +1,39 @@
+2024/10/06-18:31:42.327 1e97b Creating DB /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_resultados.tse.jus.br_0.indexeddb.leveldb since it was missing.
+2024/10/06-18:31:42.532 1e97b Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_resultados.tse.jus.br_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/06-18:31:43.136 1e97c Level-0 table #5: started
+2024/10/06-18:31:43.146 1e97c Level-0 table #5: 1411 bytes OK
+2024/10/06-18:31:43.177 1e97c Delete type=0 #3
+2024/10/06-18:31:43.178 1e97b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/06-18:35:39.673 1e987 Level-0 table #7: started
+2024/10/06-18:35:39.698 1e987 Level-0 table #7: 205483 bytes OK
+2024/10/06-18:35:39.716 1e987 Delete type=0 #4
+2024/10/06-18:35:39.718 1e97a Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/06-19:16:16.269 1e97a Compacting 1@1 + 1@2 files
+2024/10/06-19:16:16.286 1e97a Generated table #8@1: 87 keys, 74334 bytes
+2024/10/06-19:16:16.286 1e97a Compacted 1@1 + 1@2 files => 74334 bytes
+2024/10/06-19:16:16.300 1e97a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/06-19:16:16.300 1e97a Delete type=2 #5
+2024/10/06-19:16:16.300 1e97a Delete type=2 #7
+2024/10/06-19:32:54.788 1e97b Level-0 table #10: started
+2024/10/06-19:32:54.841 1e97b Level-0 table #10: 4001928 bytes OK
+2024/10/06-19:32:54.855 1e97b Delete type=0 #6
+2024/10/06-19:50:29.894 1e97c Level-0 table #12: started
+2024/10/06-19:50:29.923 1e97c Level-0 table #12: 1047398 bytes OK
+2024/10/06-19:50:29.937 1e97c Delete type=0 #9
+2024/10/06-19:50:29.938 1e97b Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 1578 : 1
+2024/10/06-19:50:29.939 1e97b Compacting 1@0 + 1@1 files
+2024/10/06-19:50:29.956 1e97b Generated table #13@0: 376 keys, 67995 bytes
+2024/10/06-19:50:29.956 1e97b Compacted 1@0 + 1@1 files => 67995 bytes
+2024/10/06-19:50:29.970 1e97b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/06-19:50:29.970 1e97b Delete type=2 #12
+2024/10/06-19:50:29.971 1e97b Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 1578 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/06-20:26:26.712 1e97b Compacting 1@1 + 1@2 files
+2024/10/06-20:26:26.808 1e97b Generated table #14@1: 90 keys, 74901 bytes
+2024/10/06-20:26:26.808 1e97b Compacted 1@1 + 1@2 files => 74901 bytes
+2024/10/06-20:26:26.952 1e97b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/06-20:26:26.952 1e97b Delete type=2 #13
+2024/10/06-20:26:26.952 1e97b Delete type=2 #8
+2024/10/06-20:26:26.952 1e97b Delete type=2 #10
+2024/10/06-20:51:49.776 1e97b Level-0 table #16: started
+2024/10/06-20:51:49.812 1e97b Level-0 table #16: 4094099 bytes OK
+2024/10/06-20:51:49.828 1e97b Delete type=0 #11

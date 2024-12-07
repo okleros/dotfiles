@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_popup": "popup.min.html"
+   },
+   "background": {
+      "service_worker": "background.min.js"
+   },
+   "content_scripts": [ {
+      "js": [ "lib/moment-with-locales.2.30.1.min.js" ],
+      "matches": [ "https://www.youtube.com/*", "https://uploaddate.com/*" ]
+   }, {
+      "js": [ "shared.min.js" ],
+      "matches": [ "https://www.youtube.com/*", "https://uploaddate.com/*" ]
+   }, {
+      "css": [ "content.min.css" ],
+      "js": [ "content.min.js" ],
+      "matches": [ "https://www.youtube.com/*" ]
+   }, {
+      "js": [ "domain.min.js" ],
+      "matches": [ "https://uploaddate.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "/images/icon-128.png",
+      "16": "/images/icon-16.png",
+      "32": "/images/icon-32.png",
+      "48": "/images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvP4t7YVVbENlDedmWKWChAuwB3Fg6M2mX54cv4GIXo8ih3tFZ2258DnUgMdRDYgOn1Hq8o8gBTSUuzUA91YRmvBJWVnbjWNEgjZVOvzhHKJIFfDyd0atCk9HQLK0KaB56qdhqF6mktGejFtTcO2qar1izwgOXb7vkrzfHZtfciP/UWv/HLQyuEq/CL+YjToq0FTamCmHE3TKGWsfPpvwY5iZJB0FdJX9qwoJ4ZP54Pj/lC1mhSwiqDNyScDmpnPuZe16NcwGQnO4XiC+mrc94PGILgyqmO4v0jTamdfyEOPCTKpDFykdhFrAQozyIfwudMv3LX8/y/oa9yx7Z436MwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.9"
+}

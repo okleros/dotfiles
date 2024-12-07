@@ -1,0 +1,15 @@
+2024/11/03-21:46:29.790 49a Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/03-21:46:29.791 49a Recovering log #15
+2024/11/03-21:46:29.793 49a Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000015.log 
+2024/11/03-21:46:32.050 4a6 Level-0 table #20: started
+2024/11/03-21:46:32.059 4a6 Level-0 table #20: 209 bytes OK
+2024/11/03-21:46:32.072 4a6 Delete type=0 #15
+2024/11/03-21:46:32.072 4a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/03-21:46:32.072 4a6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 1195 : 1
+2024/11/03-21:46:32.072 4a6 Compacting 1@1 + 1@2 files
+2024/11/03-21:46:32.082 4a6 Generated table #21@1: 270 keys, 7298 bytes
+2024/11/03-21:46:32.083 4a6 Compacted 1@1 + 1@2 files => 7298 bytes
+2024/11/03-21:46:32.100 4a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/03-21:46:32.101 4a6 Delete type=2 #17
+2024/11/03-21:46:32.101 4a6 Delete type=2 #20
+2024/11/03-21:46:32.101 4a6 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 1195 : 1 .. (end); will stop at (end)

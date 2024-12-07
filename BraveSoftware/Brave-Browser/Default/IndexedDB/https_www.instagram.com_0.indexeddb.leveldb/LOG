@@ -1,0 +1,15 @@
+2024/11/16-12:17:47.815 2128 Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-12:17:47.815 2128 Recovering log #7
+2024/11/16-12:17:47.822 2128 Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000007.log 
+2024/11/16-13:20:31.836 2128 Level-0 table #12: started
+2024/11/16-13:20:31.848 2128 Level-0 table #12: 66644 bytes OK
+2024/11/16-13:20:31.865 2128 Delete type=0 #7
+2024/11/16-13:20:31.865 2128 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/16-13:20:31.865 2128 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x0b\x02\x01\x0b\x00s\x00c\x00h\x00e\x00m\x00a\x00_\x00h\x00a\x00s\x00h' @ 9722 : 1
+2024/11/16-13:20:31.866 2128 Compacting 1@1 + 1@2 files
+2024/11/16-13:20:31.879 2128 Generated table #13@1: 1820 keys, 73845 bytes
+2024/11/16-13:20:31.879 2128 Compacted 1@1 + 1@2 files => 73845 bytes
+2024/11/16-13:20:31.892 2128 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/16-13:20:31.893 2128 Delete type=2 #12
+2024/11/16-13:20:31.893 2128 Delete type=2 #9
+2024/11/16-13:20:31.894 2128 Manual compaction at level-1 from '\x00\x07\x0b\x02\x01\x0b\x00s\x00c\x00h\x00e\x00m\x00a\x00_\x00h\x00a\x00s\x00h' @ 9722 : 1 .. (end); will stop at (end)

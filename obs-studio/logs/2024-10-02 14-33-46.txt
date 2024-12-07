@@ -1,0 +1,194 @@
+14:33:46.195: Using EGL/X11
+14:33:46.195: CPU Name: Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz
+14:33:46.195: CPU Speed: 3289.682MHz
+14:33:46.195: Physical Cores: 2, Logical Cores: 4
+14:33:46.195: Physical Memory: 5835MB Total, 940MB Free
+14:33:46.195: Kernel Version: Linux 6.11.1-arch1-1
+14:33:46.195: Distribution: "EndeavourOS" Unknown
+14:33:46.195: Desktop Environment: XFCE (xfce)
+14:33:46.195: Session Type: x11
+14:33:46.195: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+14:33:46.196: Qt Version: 6.7.3 (runtime), 6.7.2 (compiled)
+14:33:46.196: Portable mode: false
+14:33:46.331: OBS 30.2.1-1 (linux)
+14:33:46.331: ---------------------------------
+14:33:46.332: ---------------------------------
+14:33:46.332: audio settings reset:
+14:33:46.332: 	samples per sec: 48000
+14:33:46.332: 	speakers:        2
+14:33:46.332: 	max buffering:   960 milliseconds
+14:33:46.332: 	buffering type:  dynamically increasing
+14:33:46.349: ---------------------------------
+14:33:46.349: Initializing OpenGL...
+14:33:46.498: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 2000 (SNB GT1)
+14:33:46.498: OpenGL loaded successfully, version 3.3 (Core Profile) Mesa 24.2.3-arch1.1, shading language 3.30
+14:33:46.731: ---------------------------------
+14:33:46.731: video settings reset:
+14:33:46.731: 	base resolution:   1366x768
+14:33:46.731: 	output resolution: 1092x614
+14:33:46.731: 	downscale filter:  Bicubic
+14:33:46.731: 	fps:               30/1
+14:33:46.731: 	format:            NV12
+14:33:46.731: 	YUV mode:          Rec. 709/Partial
+14:33:46.731: NV12 texture support enabled
+14:33:46.731: P010 texture support not available
+14:33:46.737: Audio monitoring device:
+14:33:46.737: 	name: Default
+14:33:46.737: 	id: default
+14:33:46.737: ---------------------------------
+14:33:46.755: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:33:46.772: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:33:46.789: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:33:46.789: Failed to initialize module 'decklink.so'
+14:33:47.161: [pipewire] No capture sources available
+14:33:47.201: v4l2loopback not installed, virtual camera not registered
+14:33:47.406: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+14:33:47.406: FFmpeg VAAPI H264 encoding not supported
+14:33:47.406: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+14:33:47.406: FFmpeg VAAPI AV1 encoding not supported
+14:33:47.406: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+14:33:47.406: FFmpeg VAAPI HEVC encoding not supported
+14:33:47.639: ---------------------------------
+14:33:47.639:   Loaded Modules:
+14:33:47.639:     text-freetype2.so
+14:33:47.639:     rtmp-services.so
+14:33:47.639:     obs-x264.so
+14:33:47.639:     obs-webrtc.so
+14:33:47.639:     obs-vst.so
+14:33:47.639:     obs-transitions.so
+14:33:47.639:     obs-qsv11.so
+14:33:47.639:     obs-outputs.so
+14:33:47.639:     obs-libfdk.so
+14:33:47.639:     obs-filters.so
+14:33:47.639:     obs-ffmpeg.so
+14:33:47.639:     linux-v4l2.so
+14:33:47.639:     linux-pulseaudio.so
+14:33:47.639:     linux-pipewire.so
+14:33:47.639:     linux-jack.so
+14:33:47.639:     linux-capture.so
+14:33:47.639:     linux-alsa.so
+14:33:47.639:     image-source.so
+14:33:47.639:     frontend-tools.so
+14:33:47.639:     decklink-output-ui.so
+14:33:47.639:     decklink-captions.so
+14:33:47.639: ---------------------------------
+14:33:47.639: ---------------------------------
+14:33:47.639: Available Encoders:
+14:33:47.639:   Video Encoders:
+14:33:47.639: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:33:47.639: 	- ffmpeg_aom_av1 (AOM AV1)
+14:33:47.639: 	- obs_x264 (x264)
+14:33:47.639:   Audio Encoders:
+14:33:47.639: 	- ffmpeg_aac (FFmpeg AAC)
+14:33:47.639: 	- ffmpeg_opus (FFmpeg Opus)
+14:33:47.639: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+14:33:47.639: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+14:33:47.639: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+14:33:47.639: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+14:33:47.639: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+14:33:47.639: 	- libfdk_aac (libfdk AAC)
+14:33:47.639: ==== Startup complete ===============================================
+14:33:47.647: No scene file found, creating default scene
+14:33:47.677: All scene data cleared
+14:33:47.677: ------------------------------------------------
+14:33:47.695: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+14:33:47.696: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:33:47.698: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+14:33:47.701: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+14:33:47.702: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:33:47.702: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo' (default)
+14:33:47.703: Switched to scene 'Scene'
+14:33:47.703: Failed to glob scene collections
+14:33:48.120: [rtmp-services plugin] Successfully updated file 'services.json' (version 264)
+14:33:48.120: [rtmp-services plugin] Successfully updated package (version 264)
+14:33:48.295: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+14:33:48.295: 
+14:35:11.912: Go live URL: https://ingest.twitch.tv/api/v3/GetClientConfiguration
+14:35:11.912: Go live POST data: {"authentication":"CENSORED","capabilities":{"cpu":{"logical_cores":0,"name":null,"physical_cores":0,"speed":null},"gaming_features":null,"gpu":null,"memory":{"free":0,"total":0},"system":{"arm":false,"armEmulation":false,"bits":0,"build":0,"name":"","release":"","revision":0,"version":""}},"client":{"name":"obs-studio","supported_codecs":["h265","h264"],"version":"30.2.1-1"},"preferences":{"canvas_height":768,"canvas_width":1366,"composition_gpu_index":0,"framerate":{"denominator":1,"numerator":30},"height":614,"maximum_aggregate_bitrate":null,"maximum_video_tracks":null,"vod_track_audio":false,"width":1092},"schema_version":"2024-06-04","service":"IVS"}
+14:35:12.325: Go live response data: {
+14:35:12.325:     "audio_configurations": {
+14:35:12.325:         "live": [],
+14:35:12.325:         "vod": []
+14:35:12.325:     },
+14:35:12.325:     "encoder_configurations": [],
+14:35:12.325:     "ingest_endpoints": [
+14:35:12.325:         {
+14:35:12.325:             "authentication": "CENSORED",
+14:35:12.325:             "protocol": "RTMP",
+14:35:12.325:             "url_template": "rtmp://rio04.contribute.live-video.net/app/{stream_key}"
+14:35:12.325:         },
+14:35:12.325:         {
+14:35:12.325:             "authentication": "CENSORED",
+14:35:12.325:             "protocol": "RTMPS",
+14:35:12.325:             "url_template": "rtmps://rio04.contribute.live-video.net/app/{stream_key}"
+14:35:12.325:         }
+14:35:12.325:     ],
+14:35:12.325:     "meta": {
+14:35:12.325:         "config_id": "533e85fb-7172-45f4-aa9a-e76e9d44ef59",
+14:35:12.325:         "schema_version": "2024-06-04",
+14:35:12.325:         "service": "IVS"
+14:35:12.325:     },
+14:35:12.325:     "status": {
+14:35:12.325:         "html_en_us": "Your broadcast software (obs-studio) did not send GPU Information which is required by GetClientConfiguration provided by Twitch Enhanced Broadcasting. Try installing or updating the driver for your GPU.",
+14:35:12.325:         "result": "error"
+14:35:12.325:     }
+14:35:12.325: }
+14:35:12.326: 
+14:35:12.326: ==== Auto-config wizard testing commencing ======
+
+14:35:12.337: Number of remaining views: 1
+14:35:12.337: ---------------------------------
+14:35:12.337: video settings reset:
+14:35:12.337: 	base resolution:   1366x768
+14:35:12.337: 	output resolution: 128x128
+14:35:12.337: 	downscale filter:  Bicubic
+14:35:12.337: 	fps:               60/1
+14:35:12.337: 	format:            NV12
+14:35:12.337: 	YUV mode:          Rec. 709/Partial
+14:35:12.338: NV12 texture support enabled
+14:35:12.338: P010 texture support not available
+14:35:12.353: ---------------------------------
+14:35:12.354: [x264 encoder: 'test_x264'] preset: veryfast
+14:35:12.355: [x264 encoder: 'test_x264'] settings:
+14:35:12.355: 	rate_control: CBR
+14:35:12.355: 	bitrate:      6000
+14:35:12.355: 	buffer size:  6000
+14:35:12.355: 	crf:          23
+14:35:12.355: 	fps_num:      60
+14:35:12.355: 	fps_den:      1
+14:35:12.355: 	width:        128
+14:35:12.355: 	height:       128
+14:35:12.355: 	keyint:       120
+14:35:12.355: 
+14:35:12.355: [x264 encoder: 'test_x264'] custom settings: 
+14:35:12.355: 	scenecut = 0
+14:35:12.361: ---------------------------------
+14:35:12.361: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo
+14:35:12.361: 
+14:35:12.362: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://ingest.global-contribute.live-video.net/app...
+14:35:13.891: [rtmp stream: 'test_stream'] Connection to rtmp://ingest.global-contribute.live-video.net/app (2402:2a80:2120:0:267e:587:bb34:cca0) successful
+14:35:26.728: [rtmp stream: 'test_stream'] User stopped the stream
+14:35:26.728: Output 'test_stream': stopping
+14:35:26.728: Output 'test_stream': Total frames output: 751
+14:35:26.728: Output 'test_stream': Total drawn frames: 861 (862 attempted)
+14:35:26.728: Output 'test_stream': Number of lagged frames due to rendering lag/stalls: 1 (0.1%)
+14:35:26.728: [rtmp stream: 'test_stream'] Freeing 1 remaining packets
+14:35:26.737: ---------------------------------
+14:35:26.737: [x264 encoder: 'test_x264'] preset: veryfast
+14:35:26.737: [x264 encoder: 'test_x264'] settings:
+14:35:26.737: 	rate_control: CBR
+14:35:26.737: 	bitrate:      6000
+14:35:26.737: 	buffer size:  6000
+14:35:26.737: 	crf:          23
+14:35:26.737: 	fps_num:      60
+14:35:26.737: 	fps_den:      1
+14:35:26.737: 	width:        128
+14:35:26.737: 	height:       128
+14:35:26.737: 	keyint:       120
+14:35:26.737: 
+14:35:26.737: [x264 encoder: 'test_x264'] custom settings: 
+14:35:26.737: 	scenecut = 0
+14:35:26.739: ---------------------------------
+14:35:26.739: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo
+14:35:26.739: 
+14:35:26.740: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://for01.contribute.live-video.net/app...

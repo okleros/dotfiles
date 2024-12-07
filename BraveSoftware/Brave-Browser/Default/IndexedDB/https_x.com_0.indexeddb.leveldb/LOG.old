@@ -1,0 +1,5 @@
+2024/10/17-22:29:07.851 68e Creating DB /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb since it was missing.
+2024/10/17-22:29:07.901 68e Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/18-00:55:37.273 68e Level-0 table #5: started
+2024/10/18-00:55:37.311 68e Level-0 table #5: 2503064 bytes OK
+2024/10/18-00:55:37.328 68e Delete type=0 #3

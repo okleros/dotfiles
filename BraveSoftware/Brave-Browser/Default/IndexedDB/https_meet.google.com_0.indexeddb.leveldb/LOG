@@ -1,0 +1,6 @@
+2024/10/05-18:39:01.496 1bbcf Creating DB /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
+2024/10/05-18:39:01.524 1bbcf Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/05-18:39:33.716 1bbd0 Level-0 table #5: started
+2024/10/05-18:39:33.727 1bbd0 Level-0 table #5: 2955 bytes OK
+2024/10/05-18:39:33.742 1bbd0 Delete type=0 #3
+2024/10/05-18:39:33.742 1bbd0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

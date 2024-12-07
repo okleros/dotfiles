@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": {
+         "48": "assets/48.png",
+         "64": "assets/64.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "javascript/worker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/content.css" ],
+      "exclude_matches": [ "https://plus.google.com/hangouts/*", "https://hangouts.google.com/*", "https://meet.google.com/*" ],
+      "js": [ "javascript/content.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*", "file:///*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "differential_fingerprint": "1.45a3d83d9366517bee1f2025eed21f7054245439a09d8c22542c450da2e4670a",
+   "icons": {
+      "128": "assets/128.png",
+      "48": "assets/48.png",
+      "64": "assets/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmBaA3R5wbXKXf9y9Rcyq1n/euatQrjkZpaQf1yLP8EQiyHsak5L8WTQprjUm4Ujk85CyKeO0/TRMmcNtfKtJDWmtBC9fGavvZUQA87EHBw7O+L+d+1csZSLQAq13SgjUD62sJeHYzvH4T8XAGiIDe1PsTljGgfnhdrEEFlalyb79uP3YZ8kpJYCKtjZK7upA2nxWgUdrp+AGK1dieQji6XygYy4/T2kw0IlFpaNspvB+OANwpJnwwDxf0cOE7q8XaSOtpZ8lRRQetdswSTWWuxZ3yhgf95H+1iGPwt/JScv+xMK8qWwHLczVJyk+ZJ4Af+tX1vGup0OyzAa7cTeDPwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "89",
+   "name": "__MSG_name__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "settings.html"
+   },
+   "permissions": [ "storage", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.10",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*", "file:///*" ],
+      "resources": [ "css/content.css", "css/shade.css" ]
+   } ]
+}

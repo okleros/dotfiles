@@ -1,0 +1,6 @@
+2024/10/15-16:21:32.108 6ee Creating DB /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.intel.com.br_0.indexeddb.leveldb since it was missing.
+2024/10/15-16:21:32.138 6ee Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.intel.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/15-16:21:32.477 6fc Level-0 table #5: started
+2024/10/15-16:21:32.487 6fc Level-0 table #5: 594 bytes OK
+2024/10/15-16:21:32.500 6fc Delete type=0 #3
+2024/10/15-16:21:32.500 6ee Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

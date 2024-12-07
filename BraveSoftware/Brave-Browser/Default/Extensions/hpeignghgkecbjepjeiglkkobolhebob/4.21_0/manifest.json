@@ -1,0 +1,23 @@
+{
+   "action": {
+      "default_icon": "icons/moon-grey-24.png",
+      "default_title": "Soundcloud Darker"
+   },
+   "content_scripts": [ {
+      "js": [ "scdarker.js" ],
+      "matches": [ "https://*.soundcloud.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Make Soundcloud look great again!",
+   "homepage_url": "https://scripts.9tw.de/firefox-addons/soundclouddarker",
+   "icons": {
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiY7RRk0hKh2OGdRf2X8pmxZs7Zu877oD0QuCOEVUvFirziYo94Y/aVg0QiTGzQ9De58PEKcMreGWpyhxjdhxgnFMd7kgO+RlEQB0i6FvnutkuFUz9u/DvesMnNIi+tBBKQAJdLsjhCciWZsw3sMrAZZpFQZhBUdY9q20aD5jILhPfoCYoTUQ68lPSXUDYgaGZmWM491mj/jVr0sVw/4+TyBR+ubxsIaTm9mB/UbZASGV5EZhoDdp8E3Z7RNExaYdIOJUflP/7KmeH+MASVXdTPRocqn2p65jkD6PyqudYHC9dqufuzJhER1s47vbO3+YAOPDpnnQoa4SG563dG/o/QIDAQAB",
+   "manifest_version": 3,
+   "name": "Soundcloud Darker",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.21",
+   "web_accessible_resources": [  ]
+}

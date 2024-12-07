@@ -1,0 +1,12 @@
+2024/10/07-14:35:22.197 1e97b Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shopee.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/07-14:35:22.198 1e97b Recovering log #4
+2024/10/07-14:35:22.204 1e97b Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shopee.com.br_0.indexeddb.leveldb/000004.log 
+2024/10/07-14:41:25.296 1e97b Level-0 table #8: started
+2024/10/07-14:41:25.326 1e97b Level-0 table #8: 1864699 bytes OK
+2024/10/07-14:41:25.342 1e97b Delete type=0 #4
+2024/10/07-14:42:20.871 1e97c Compacting 1@1 + 1@2 files
+2024/10/07-14:42:20.894 1e97c Generated table #9@1: 461 keys, 115202 bytes
+2024/10/07-14:42:20.895 1e97c Compacted 1@1 + 1@2 files => 115202 bytes
+2024/10/07-14:42:20.907 1e97c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/07-14:42:20.908 1e97c Delete type=2 #5
+2024/10/07-14:42:20.908 1e97c Delete type=2 #8

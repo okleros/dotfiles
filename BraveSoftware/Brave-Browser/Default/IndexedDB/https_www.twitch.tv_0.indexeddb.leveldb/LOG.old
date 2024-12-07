@@ -1,0 +1,6 @@
+2024/10/06-08:54:19.156 1e97b Creating DB /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2024/10/06-08:54:19.193 1e97b Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/06-08:54:51.255 1e97b Level-0 table #5: started
+2024/10/06-08:54:51.265 1e97b Level-0 table #5: 1070 bytes OK
+2024/10/06-08:54:51.279 1e97b Delete type=0 #3
+2024/10/06-08:54:51.279 1e97b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

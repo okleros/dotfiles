@@ -1,0 +1,24 @@
+2024/12/01-20:41:31.963 4a8 Reusing MANIFEST /home/okleros/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/12/01-20:41:32.024 4a8 Recovering log #1008
+2024/12/01-20:41:32.051 4a8 Reusing old log /home/okleros/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/001008.log 
+2024/12/01-20:45:21.945 4a8 Level-0 table #1012: started
+2024/12/01-20:45:21.957 4a8 Level-0 table #1012: 123530 bytes OK
+2024/12/01-20:45:21.980 4a8 Delete type=0 #1008
+2024/12/01-21:20:44.157 4b5 Level-0 table #1014: started
+2024/12/01-21:20:44.186 4b5 Level-0 table #1014: 80735 bytes OK
+2024/12/01-21:20:44.216 4b5 Delete type=0 #1011
+2024/12/01-21:20:44.216 4b5 Compacting 4@0 + 1@1 files
+2024/12/01-21:20:44.250 4b5 Generated table #1015@0: 992 keys, 98443 bytes
+2024/12/01-21:20:44.250 4b5 Compacted 4@0 + 1@1 files => 98443 bytes
+2024/12/01-21:20:44.281 4b5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/01-21:20:44.281 4b5 Delete type=2 #1014
+2024/12/01-21:20:44.282 4b5 Delete type=2 #1004
+2024/12/01-21:20:44.282 4b5 Delete type=2 #1009
+2024/12/01-21:20:44.282 4b5 Delete type=2 #1012
+2024/12/01-21:20:44.282 4b5 Delete type=2 #1006
+2024/12/01-22:06:22.409 4a8 Level-0 table #1017: started
+2024/12/01-22:06:22.421 4a8 Level-0 table #1017: 70345 bytes OK
+2024/12/01-22:06:22.435 4a8 Delete type=0 #1013
+2024/12/01-22:34:34.881 4b5 Level-0 table #1019: started
+2024/12/01-22:34:34.907 4b5 Level-0 table #1019: 109522 bytes OK
+2024/12/01-22:34:34.938 4b5 Delete type=0 #1016

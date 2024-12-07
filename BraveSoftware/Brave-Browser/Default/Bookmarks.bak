@@ -1,0 +1,513 @@
+{
+   "checksum": "0b713fd22026a4b873e50cbeda7965d4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13362632712000000",
+            "date_last_used": "13377385822609801",
+            "guid": "730149c5-a91e-4bd5-80ce-98682077342b",
+            "id": "113",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13313980820000000",
+            "date_last_used": "13376277737822426",
+            "guid": "5e14b726-b1df-4d8c-92b1-115a8a47f703",
+            "id": "114",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://discord.com/channels/@me/"
+         }, {
+            "date_added": "13308527508000000",
+            "date_last_used": "13377052388607798",
+            "guid": "c80dc17b-6ad6-421d-ad40-070e0c9d3b4b",
+            "id": "115",
+            "name": "",
+            "type": "url",
+            "url": "https://open.spotify.com/"
+         }, {
+            "date_added": "13308527422000000",
+            "date_last_used": "13345871990758574",
+            "guid": "e1a94ce5-c7a0-40e3-b5a3-8e838c9f6162",
+            "id": "116",
+            "name": "",
+            "type": "url",
+            "url": "https://classroom.google.com/u/0/h"
+         }, {
+            "date_added": "13309636406000000",
+            "date_last_used": "13357597262216916",
+            "guid": "ee71d015-b1f9-4310-8622-0a212bfc2390",
+            "id": "117",
+            "name": "",
+            "type": "url",
+            "url": "https://contacts.google.com/?authuser=2"
+         }, {
+            "date_added": "13321827973000000",
+            "date_last_used": "0",
+            "guid": "b68157f3-d1e6-46ed-bdd4-9d81dd919ee8",
+            "id": "118",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://aternos.org/server/"
+         }, {
+            "date_added": "13352985675000000",
+            "date_last_used": "0",
+            "guid": "bab6adf0-3557-4e18-a017-e005f3c8512e",
+            "id": "119",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Z-Lib",
+            "type": "url",
+            "url": "https://z-lib.io/"
+         }, {
+            "date_added": "13346096011000000",
+            "date_last_used": "13373397151603329",
+            "guid": "8afd0ead-5217-4e8a-a544-5439d9d5e8f3",
+            "id": "120",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13373916664187586",
+            "date_last_used": "13373916692732773",
+            "guid": "1f047383-f9ad-4572-8765-547cbf3270b3",
+            "id": "133",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SFlix Free",
+            "type": "url",
+            "url": "https://sflix.to/"
+         }, {
+            "date_added": "13316554457000000",
+            "date_last_used": "13373896393893023",
+            "guid": "b2a5a393-9e04-4d43-85b4-2745986060ee",
+            "id": "121",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail - Primário",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/"
+         }, {
+            "date_added": "13316554494000000",
+            "date_last_used": "13371768845933497",
+            "guid": "747265c7-9e7a-42ef-93f5-9540f84584d1",
+            "id": "122",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail - UFC",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/1/"
+         }, {
+            "date_added": "13326914257000000",
+            "date_last_used": "13367709741894029",
+            "guid": "b67a1ff4-a57d-4773-9afe-f1e3dcf23c3e",
+            "id": "123",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail - CA",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/3/#inbox"
+         }, {
+            "date_added": "13316554494541568",
+            "date_last_used": "0",
+            "guid": "f6cb16fb-94ef-444e-b164-cd2ccee339e2",
+            "id": "134",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail - UFC",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/2/"
+         } ],
+         "date_added": "13372360805826065",
+         "date_last_used": "0",
+         "date_modified": "13373916664187586",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13308978053344293",
+            "date_last_used": "0",
+            "guid": "f4ccfbcf-795a-4a7c-9d0f-6d63596042dc",
+            "id": "87",
+            "name": "Microsoft Windows Resume Template – Figma",
+            "type": "url",
+            "url": "https://www.figma.com/community/file/1119752482422665861"
+         }, {
+            "date_added": "13316667020267804",
+            "date_last_used": "0",
+            "guid": "d7e9e2d4-e54a-4be1-80dc-984c3601e89e",
+            "id": "88",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "10 dicas quentes para você criar a história do seu personagem de RPG - Nuckturp",
+            "type": "url",
+            "url": "https://nuckturp.com.br/10-dicas-quentes-para-voce-criar-a-historia-do-seu-personagem-de-rpg/"
+         }, {
+            "date_added": "13317152701534158",
+            "date_last_used": "13353240551554710",
+            "guid": "cdb34a24-cc83-41cf-971a-b682d269332d",
+            "id": "89",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AnyDice",
+            "type": "url",
+            "url": "https://anydice.com/"
+         }, {
+            "date_added": "13317152719727632",
+            "date_last_used": "0",
+            "guid": "1b12ef93-464d-428f-9c10-b4a7021cebab",
+            "id": "90",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "World Anvil Worldbuilding tools & RPG Campaign Manager | World Anvil",
+            "type": "url",
+            "url": "https://www.worldanvil.com/"
+         }, {
+            "date_added": "13317154913727347",
+            "date_last_used": "0",
+            "guid": "4a7cd788-9f0e-4675-9bd7-382793e2ab60",
+            "id": "91",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CHA23131 Call of Cthulhu 7th Edition Quick-Start Rules.pdf",
+            "type": "url",
+            "url": "https://www.chaosium.com/content/FreePDFs/CoC/CHA23131%20Call%20of%20Cthulhu%207th%20Edition%20Quick-Start%20Rules.pdf"
+         }, {
+            "date_added": "13317249162734536",
+            "date_last_used": "0",
+            "guid": "8f4d186c-2bd4-4363-9ce5-d007b89d8216",
+            "id": "92",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Riddles, Puzzles and Brain Teasers | The Thieves Guild",
+            "type": "url",
+            "url": "https://www.thievesguild.cc/riddles/"
+         }, {
+            "date_added": "13317253955280715",
+            "date_last_used": "0",
+            "guid": "94d393d5-29eb-4d33-aa4b-76a0922273a1",
+            "id": "93",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ASCII Table - ASCII Character Codes, HTML, Octal, Hex, Decimal",
+            "type": "url",
+            "url": "https://www.asciitable.com/"
+         }, {
+            "date_added": "13317258395389084",
+            "date_last_used": "0",
+            "guid": "9c30aade-5394-44b9-98e6-c0e0f7e3c814",
+            "id": "94",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OpenAI",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13310086602729718",
+            "date_last_used": "13371384822975930",
+            "guid": "5216e1e1-d6c6-4eaa-923a-f6d1e45f4e6c",
+            "id": "95",
+            "name": "Postgres Python Course",
+            "type": "url",
+            "url": "https://app.supabase.com/project/ecxjkhyxlfkhjhxyjhup"
+         }, {
+            "date_added": "13310086612788182",
+            "date_last_used": "13371384826362658",
+            "guid": "3e6fcee4-9391-4685-b33e-b65aaa8a811c",
+            "id": "96",
+            "name": "Hosting Python Course",
+            "type": "url",
+            "url": "https://vercel.com/dashboard"
+         }, {
+            "date_added": "13319873000492051",
+            "date_last_used": "0",
+            "guid": "412e5911-fc93-4db3-8700-58adc0adf29b",
+            "id": "97",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Minecraft Tutorial | Water Bottle Filler | Bedrock and Java | Small & Easy - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=wDNX_jFFfmg"
+         }, {
+            "date_added": "13325898223170994",
+            "date_last_used": "0",
+            "guid": "90f2458f-5169-400f-b09c-ea8658cd2e2f",
+            "id": "98",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo",
+            "type": "url",
+            "url": "https://www.qrcode-monkey.com/"
+         }, {
+            "date_added": "13331181529458290",
+            "date_last_used": "0",
+            "guid": "15bcef35-64f1-45dc-a673-cd4bbd4b566a",
+            "id": "99",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SamMobile - Your source for all Samsung news",
+            "type": "url",
+            "url": "https://www.sammobile.com/"
+         }, {
+            "date_added": "13332057692510032",
+            "date_last_used": "0",
+            "guid": "8f4aa17a-25cb-42ba-a4b7-2232df77276a",
+            "id": "100",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Ray Tracing in One Weekend",
+            "type": "url",
+            "url": "https://raytracing.github.io/books/RayTracingInOneWeekend.html"
+         }, {
+            "date_added": "13332057708882697",
+            "date_last_used": "0",
+            "guid": "ad49eba7-2bbe-439f-9880-3720eddacdb7",
+            "id": "101",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Online 3D Viewer",
+            "type": "url",
+            "url": "https://3dviewer.net/#"
+         }, {
+            "date_added": "13332057723214161",
+            "date_last_used": "0",
+            "guid": "5444e83a-f8d1-46ef-a701-d9834b665069",
+            "id": "102",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Blender: Recalculate Normals – Simply Explained | All3DP",
+            "type": "url",
+            "url": "https://all3dp.com/2/blender-recalculate-normals-simply-explained/#:~:text=In%20Edit%20Mode%2C%20select%20the%20object%2C%20then%20hit%20%E2%80%9CShift,lower%20left%20of%20the%20Viewport."
+         }, {
+            "date_added": "13334280865937799",
+            "date_last_used": "0",
+            "guid": "160f0822-cff5-45e8-90b2-a2f8d66626ad",
+            "id": "103",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kleros_Ficha_Yimstoneth.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/gutem/OneDrive/Documents/pdf/Kleros_Ficha_Yimstoneth.pdf"
+         }, {
+            "date_added": "13348649920375200",
+            "date_last_used": "0",
+            "guid": "62dc1463-848d-49ba-af6c-6057718eb152",
+            "id": "104",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Calories Needed for a 22 year old, 112 kg Male",
+            "type": "url",
+            "url": "https://tdeecalculator.net/result.php?s=metric&g=male&age=22&kg=112&cm=180&act=1.725&f=1"
+         }, {
+            "date_added": "13348649938799262",
+            "date_last_used": "0",
+            "guid": "9c8836e1-dc4e-45c5-8df5-7d552c120b4f",
+            "id": "105",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Automatic Meal Planner - Eat This Much",
+            "type": "url",
+            "url": "https://www.eatthismuch.com/?generate=1&diet_type=anything&cals=3691.5"
+         }, {
+            "date_added": "13353240527726683",
+            "date_last_used": "0",
+            "guid": "37a3baff-da98-436b-9c7b-d47fa4e38c3a",
+            "id": "106",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "RECEITA SIMPLES DE BISCOITOS DE LIMÃO| DELICIOSO | LINDO PARA PRESENTEAR- Outubro 2023 - JANA CABRAL",
+            "type": "url",
+            "url": "https://janacabral.com/biscoitos-de-limao/"
+         }, {
+            "date_added": "13354798924479814",
+            "date_last_used": "0",
+            "guid": "4ac93705-ddae-412e-a349-c82d1b6a03f0",
+            "id": "107",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Converta TIFF para BMP gratuitamente - ImageToStl",
+            "type": "url",
+            "url": "https://imagetostl.com/pt/converter/ficheiro/tiff/para/bmp"
+         }, {
+            "date_added": "13356428030497448",
+            "date_last_used": "0",
+            "guid": "b406dadc-e71f-48b3-93d9-7986d615a0aa",
+            "id": "108",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/c/47ef694e-5be1-4783-826c-acd9f79a5889"
+         }, {
+            "date_added": "13356731918785611",
+            "date_last_used": "0",
+            "guid": "8293f9f9-71a9-466a-9d57-7c3d74e6d001",
+            "id": "109",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SSD 120GB 2.5 SATA SU650 - ASU650SS-120GT-R, Adata, Armazenamento Interno SSD | Amazon.com.br",
+            "type": "url",
+            "url": "https://www.amazon.com.br/120GB-SATA-SU650-ASU650SS-120GT-R-Armazenamento/dp/B07HCCWWWF/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=335KMGE4KEJD8&dib=eyJ2IjoiMSJ9.neK5cDuh2T_9QsMGhBubY92hYm9HCbK0yQWQIW5a_Xpn87NyT9kE9XnGvDNYVTnPLedT5ibdykRcocuz5ZMz7bsv5xjg_77Uuw_PQqAySj9G7gz1aCXAHifx80vPND5bHhmdOco0W7IX2xIv6TijJheCfTM8_Ew4VfxnvvYF5HJW9L15E-aIPMCuZgO7AR0poT4xsTqv-o6WHSc7pUfswJ9itVilgB2eD73NZWpw8PIwLu6n5JGqj5MHL4ZkKFQu-1JAUye7CtNwpGBcde1-g2VED0wBXkJrV5Tp6jVhf-s.s1a5-8hj5KkO7Hzgq3gQScvgis3tr3wM6PlHmGnU0TE&dib_tag=se&keywords=ssd%2Bsata&qid=1712258206&refinements=p_36%3A-12000&rnid=16254006011&s=computers&sprefix=ssd%2Bsata%2Ccomputers%2C145&sr=1-7&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&th=1"
+         }, {
+            "date_added": "13357249697911754",
+            "date_last_used": "13372362419401434",
+            "guid": "5c507bdf-dcb6-44f7-824b-f99c3df65b8d",
+            "id": "110",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Search result for the eminence in shadow on 9anime",
+            "type": "url",
+            "url": "https://9animetv.to/search?keyword=the+eminence+in+shadow"
+         }, {
+            "date_added": "13358369229373981",
+            "date_last_used": "0",
+            "guid": "5c98e34c-3e04-49b5-b38e-771d155ef0b7",
+            "id": "111",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/c/e68d5c1c-3ea6-4696-b1d8-3df9c5800a41"
+         }, {
+            "date_added": "13361263528017426",
+            "date_last_used": "0",
+            "guid": "33bcf5a7-7e88-4e6c-913d-f740b1ccddcf",
+            "id": "112",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Handwritten kanji search at sljfaq.org",
+            "type": "url",
+            "url": "https://kanji.sljfaq.org/"
+         }, {
+            "date_added": "13372633890098204",
+            "date_last_used": "0",
+            "guid": "af3e6da4-2189-42dd-8eca-51268eb129b1",
+            "id": "131",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "2d",
+            "type": "url",
+            "url": "https://cc2016.dc.ufc.br/curso/matriz-curricular/"
+         } ],
+         "date_added": "13372360805826068",
+         "date_last_used": "0",
+         "date_modified": "13372633890098204",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13297779409851476",
+            "date_last_used": "0",
+            "guid": "ded52a36-9179-4619-a3c4-d0adaa223f25",
+            "id": "124",
+            "name": "SIPAC - Sistema Integrado de Patrimônio, Administração e Contratos",
+            "type": "url",
+            "url": "https://si3.ufc.br/public/jsp/restaurante_universitario/consulta_comensal_ru.jsf"
+         }, {
+            "date_added": "13303201354580623",
+            "date_last_used": "0",
+            "guid": "c7b3720b-3a50-45f4-9448-f964ae8955c6",
+            "id": "125",
+            "name": "turtle — Turtle graphics — Python 3.10.5 documentation",
+            "type": "url",
+            "url": "https://docs.python.org/3/library/turtle.html#turtle.seth"
+         }, {
+            "date_added": "13304129515475658",
+            "date_last_used": "0",
+            "guid": "99e3a14e-2009-427b-a731-8c91e23acd75",
+            "id": "126",
+            "name": "Coding Challenge #30: Phyllotaxis - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=KWoJgHFYWxY"
+         }, {
+            "date_added": "13304129517531652",
+            "date_last_used": "0",
+            "guid": "726b8765-c012-4f54-a568-76d55c79d8c1",
+            "id": "127",
+            "name": "Coding Challenge #102: 2D Water Ripple - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=BZUdGqeOD0w"
+         }, {
+            "date_added": "13326312842710970",
+            "date_last_used": "0",
+            "guid": "432be80a-25aa-496a-b7f6-229f4b846de0",
+            "id": "128",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "python - How to create a pygame surface from a numpy array of float32? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/41168396/how-to-create-a-pygame-surface-from-a-numpy-array-of-float32/41171153"
+         }, {
+            "date_added": "13326914234798152",
+            "date_last_used": "0",
+            "guid": "154265c2-b580-475d-a3f4-7148583ea4fc",
+            "id": "129",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail - CA",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/3/"
+         } ],
+         "date_added": "13372360805826070",
+         "date_last_used": "0",
+         "date_modified": "13326914234798152",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqI1KHi72QAAAAAEgAaWHAwTExtdXV0N3ptNTdJOWZCa0UrUzRxYWl5ZmEzVXM3ZnBMZC9KR0ZobTJJZDUwQlhNeDVyYzVIYXBsRnl0eG1oakxkRFRpYWNyYm8rMVAxOGFBMjh3PT0qGGZWaTM5Zzl1YlR5Qm9oWmU3S1ltbFE9PUgDEqkBCIEBEqMBChxUWFVXdGtrVmp2SGJBOGpsaTFCVGVid1VOd1E9EiRkNjcyOTRhNi1hMWVhLTQzNmEtOWVmZi0wNWE5NDRlYmNiNjEYACAAKAAw28mRx5MyOK+Dm8r7MECvg5vK+zBKHGtjRVpQeWZadk52SjZpaWo5K1lvMUx2Qm9jVT1aHyId+kVVVGhrT0dFcFNrZDNheUVKN0xPTDQ3TVVlTT1lmz2FthKpAQiAARKjAQocaEZXUEpJdUN3KzVIbmt6WE1EOGJWb0Y0dmdBPRIkYjc3ZWYwMjItNTQ1YS00NWYxLWJjNzgtODFjYjMzYWM2OWQzGAAgACgAMN/LwrigMTj3/Lir+TBA9/y4q/kwShxqUDBocDJ4NkswR0duRGpSOWNablRaQjJuaEk9Wh8iHfU4RlNTVFhib3orcFZISWo5WURxUWpwclBlTGs9ZQ/MNBQSqAEIfhKjAQocMWxYaUFUR0FVU2tTSjdWTDhZQllFQ1ZLbk1jPRIkMTEzYTIzOTEtZTFiZS00NThkLWJmYjEtNjlmNGJjMWEzYzc5GAAgACgAMOypztmmMDjUj87ZpjBA1I/O2aYwShxVTGtsYnluMkYySzFScFVQMk1qYUMybFIvdEk9Wh8iHdZnQlRhSUU2ckhlcmpOK3ZDaVdpdStvT0xDSkU9ZTj5OTMSqAEIWhKjAQocSnVGTldmempPVmZYMmREWWxmR3k4amZ2U3dBPRIkNzA5OGUyOTQtMTJmNS00MDJjLTllMWUtNWVkMGYyMGE4NmYyGAAgACgAMNXEx5vXMDjvtseb1zBA77bHm9cwShxPZmZJSE5PUy8wSkNJZmVhZHRWeEhDcTdzUm89Wh8iHd5YR0gvZ1Y1UDNZMUQxWG4rODM5RDR2eG12Qk09ZZ/k+kASqAEIfRKjAQocT0tSemJub0JSTXhxMnJEQmFpbnJmRnhJa3JjPRIkNDhhYjIzY2ItMDIzNi00MmYxLTliNDctNTEzMGE2MDU3MWQzGAAgACgAMPz4g5+jMDja1oOfozBA2taDn6MwShxtSFZoaVVBTE1MRzkrYVpJbG85b2tINzVXcTQ9Wh8iHaw1MU55Z0VuSzNtd1BqeDNOcTArSFRWdm1xUTg9ZV/AF8ASpwEIfBKiAQocRWdCbUhOL3paa0hCMDRkSENLWW1PaTZmbWd3PRIkMGRkZDM0OTctMjk1MC00MWNhLTk1MGYtYzQ5ZjUxYzFhNDUwGAAgACgAMOza0oWPMDjKt9KFjzBAyrfShY8wShx4U0x6RUxSdnRoSS9OR0xDbGxDQVd2ZjBIa009Wh4iHFhaVUJqVzF4eWtlN09rSVp0U1pHQXdhQWptdz1lAAAAABKpAQhlEqQBChxkUnRDcEVWSDBKWjRsaFNiUU1CeHY2bWpScEE9EiQ0MTFlM2RiZS1iYTBlLTQ5M2MtODk2Ny1iN2M3YjhjYmQyNTMYACAAKAAwlv/n3o4xONPi596OMUDT4ufejjFKHHZPY3FvcVgyd2J4UUR3TmxPclF1TFE4Yzhwaz1aICIe//dnRU9NaXRIOFhzeUZKTWlYN3UyVHdLVVN2K3c9ZZYgBZQSgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRjNmYxODViYy1hOTZmLTRlN2MtYjU5MS0yMGUzYTNlY2ZhZmUYACAAKAAwATiNzvmM/C9Ajc75jPwvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQhdEqMBChxMeEZTcXVPTGNvQXV4Z29VL2JIV0F2V0VuRTA9EiRmNWEyZjg5Yi0zMTJhLTQ5MDYtYTQ5YS04ZWI3Y2EzODc1ZTIYACAAKAAw7oOUzL4xONGt6svXMEDRrerL1zBKHGxpMDJEQ0JmOHQwNS93TkZhSWJZME5YZmVZYz1aHyId+3NyVFVNTGZPNE1nZGszcDVZb3IrdnBUQkFSUT1lFZ/i6hKrAQiDARKlAQocaWZkVU9DR2dhUlA3b3hHNmhFVzlzSEpTRjRRPRIkOTBlZDg4ZTctOTE3NC00NmM0LWJkYjMtMWYwZmRmYzIwZDBhGAAgACgAMJLFhfOlMjizqoXzpTJAs6qF86UyShxsUWpFaXNmMS9JZHhKSzczWmJQZkpscThTQjg9WiEiH////3paS1FlVkZVdlJoNjhkUG1aUDFZaWI0c0t1az1lkrjEhxKqAQhwEqUBChxjamN2ajFvTTZmeDJVZ29VUWNHbzVyaU1WcUk9EiQ5OWJhYWZhYi0yYWM1LTRlOGMtOGFkOS0yNGE0OGJjMzEyNTMYACAAKAAwnsqdxfsxONjAncX7MUDYwJ3F+zFKHDdJemwwSkdYWW9UVTQwNjI2YWJmbEh0ZXFucz1aISIf///+VlFKc0EvTXVwcUlTeXhxTjV5T2xFU3EwaTI4PWUzVMMcEqoBCG4SpQEKHE1GM01IRFI2THNYZzJIUkFlZU53VStEbmIyUT0SJDJhZjU2ZGZmLTI2NTItNDM0MC1iNzQ3LWU0ZWFiMTk5ZDA1MxgAIAAoADC2gKXL7DE4+OCky+wxQPjgpMvsMUocNUpFNWVUNGFvV0RraXh4NzhXbmx5YWpqSTVrPVohIh////pHblFNS3N5NzVTdlhkTkxmSWhZckE3bVBldVU9ZcaXOh4SqQEIaBKkAQocUWxPQU82ejBYQUtLaHVZK3NMaUJBUWhZT2VjPRIkMTMyMjNkNjMtYWVmNi00NDE2LWI0ZGItOGZkNjc1NzQyMzk0GAAgACgAMODvzMbMMTj5/svGzDFA+f7LxswxShw4Ui95aWxwTzlpakcrQWU1M3pBV2xYUG9tdUU9WiAiHv/+U3JQZ0hCaWlwRkh5d1pGTlJDL0l1Q2VkbWl3PWVHg3rTEqkBCGQSpAEKHDIwVnRlOUtNK1RDd3MramRja3hlZXVDRVc3UT0SJGZjMWExMjhmLTE0YTYtNDRhMy1iYTJhLTU4ZThmMjRlNTQyZRgAIAAoADCi7tShxTE43uLm3o4xQN7i5t6OMUocTWhuVEdISEtTR3U3MjQ4ZzhrS2p0V3QvODdNPVogIh7/7jlyVElxOHg0UHhGVXJ3SU5lRVBCcXQvRnVaYz1lTPaggxKpAQhjEqQBChwrOFh1OUoweVFSSmpKZzlWZ3REd3BBdUxlSUU9EiQ3ZGMwZjRjNS03NjA1LTRjYzMtYWJkNC05MDk4MzJjNTY1YjIYACAAKAAw0LKCvYsxOJaEgr2LMUCWhIK9izFKHHFJRlZqcWdsRDFuWlpJUUJja2lYelcyZ3FEZz1aICIe/9wxVWFPZUtsK29vYkU2TnRQREp5dDlHK3pYbU09ZalaSZ8SqgEIbRKlAQocRDQycWk3QVFqVFRqakExU3hocTJHOS9KNllJPRIkMzU1NTBkMTktYmQyNC00YmM0LWEzZTktNzJjYmE2NTg1ZmE3GAAgACgAMPSnttTqMTjCg7LU6jFAwoOy1OoxShw3MmVLYi9HRDc3Z05NK2VBUWcyQ1J6ZVJ5aW89WiEiH///9TJHMTR6NVNTcHY5ZFJMMHdDVGxDdzdnS3NvMD1ldb41UhKpAQhnEqQBChxnNmI0WlRmQWV5UUk2dkdyQUdaVzdOVVBNQUE9EiRjNmZiMjkxOC04Y2QyLTRmMTUtYWY5ZS1kMGVjMTkxOTQ5OGUYACAAKAAwwNvygpcxOJbB8oKXMUCWwfKClzFKHFoyaTVCOGphZ0JMSFpjRmhQSHVoRStVb05rYz1aICIe//1nOTV3dlA1QzY4Y1lmYjZXbE0vNVIrZ0VIWVk9ZQAAAAASqAEIYRKjAQocaFYybHEvSk5kaUplMzhzc0FCTm85STRWemNrPRIkMjA1NmMzYzktODNjNC00NzkxLTg5MmYtYWNlZjE3MTYzNDBlGAAgACgAMJWg2KzhMDismNis4TBArJjYrOEwShx6N1VBSCtac3dpeDgrMWNkNWlYRnpYd2lCdDQ9Wh8iHf9xRTg3TE9YaU11RENwK0czNkNMc21pUEdjcXc9ZTj5OTMSqAEIYBKjAQocMDJEMTNTMjQ5aDhQbEN6aUJNaC9qaThidnFJPRIkY2E4YTA3ZTMtYjkzOS00YTExLWI4OTEtMzUxMTM5MWRkYTMzGAAgACgAMKvT3Z+hMji2vpbyvDBAtr6W8rwwShxCczZEY3dnaitSQTdyMithRzhHeEdCSW85akE9Wh8iHf80NENjUm1iVUhlSnkxWmlNaHZYT0lQa3dMczg9ZcjzP7sSqgEIaxKlAQocd3JqdGxaYzVjTXl6TXJqNE9aSTVuc0RDYzVnPRIkMGNhMjJiMDUtOWRmMS00M2YwLTgyMzctMmUxM2Q1MjUyZDNiGAAgACgAMKnH1brjMTjNtdW64zFAzbXVuuMxShxUTEZXM1pWZFJ2STJuelgyTnlVeTZkQnZDRDg9WiEiH///1VlaYm43eDVNUXNVSnY4NlVjdm9QWkN2YUM4UT1lPdKN9hKoAQhfEqMBChxFMzFkTk96OGVrQ21xVWFPRUR3M0JXbjVsRkU9EiRlNTA3ZGRmYS04NTI4LTQ1MzYtOGM3Zi1lMjc2M2I3YjA4ODYYACAAKAAw7+y4n6EyOPfvlfK8MED375XyvDBKHHBLVVh0TDZQSmhZUGhiNGNPQVFPaDdIS3R1WT1aHyId/m1zQ2NDRHU0em9uL3lvMStNcExEQ2lvSS9jcz1lIMhFHBKoAQhbEqMBChxyUmJpTTJCUkIycitPLzVPWUI3TGVXLzAwSGc9EiQ4N2JiYWEyMy1lNmNhLTRlNjQtOGQwMC0yMDgxOGFmOTlhZmYYACAAKAAwqsnNnNcwOMCrzZzXMEDAq82c1zBKHEQrSVNLUzdNWFhiamZJMUhxUGRyaUhrS0g3az1aHyId7013SVdVclpXMXVHM2VrL004VzNGeWQzQzhuOD1lAAAAABKnAQhXEqIBChx5eHlza0RQSWhyNTg3ZE56alJNN3hrZXZjWnM9EiRhZWFmOGQyNi01ZGIxLTRiMzQtYmMzMy02YTQwZjc1MDA4NTEYACAAKAAw69jQxaAyOOOxyeG4MEDjscnhuDBKHEdkTVJIcmNlYW1tT1Vqb01TZjJyVXFvT1JGZz1aHiIcN21oSFdXMS9GTW5oRnYvczFveTRKWTNqVDZJPWXvAI6HEqoBCG8SpQEKHEhOanl2SXd6U3hDNTdrQlk1NG1xZlAxUVlPaz0SJDI0NDhiYTcxLTkyODEtNGU1Zi1iZDk3LTMxZmU5NWU4Y2Q0MhgAIAAoADDQjJbh8DE4vsSP4fAxQL7Ej+HwMUocbk1RTEpsM3JyZkNzK3ZLWmFLZmVJdjFiUHNrPVohIh////1qUlVCQXdsREZGSVRiSk9ldEtVZE05M2tIQWs9ZWkbIvMSqAEIWRKjAQocck53UDhCVGZPeGxValM2TjFGb1VBd1JOSlg4PRIkN2RjZjk0ZjMtMmIwNy00NTQ5LTk4ZDgtMWMxYjA5MTEwZTI5GAAgACgAMN6dytPdMTjfqMab1zBA36jGm9cwShx0Ui8ySzUxZVRTUWF1d1FoN3ExVEw3ZlI3WDQ9Wh8iHbxwNXJJTnAwUGlkQllWbStGMHhuODNiWVNNYms9ZVARXkcSqAEIchKjAQocNTVxQWcydVFsc3MrVThDZ2hwZE90NWZyYS9FPRIkNTBjYTZhNDYtY2RiOS00YWU1LTlmZjctYTlkMzEzZWE1MTlkGAAgACgAMMPFtbezMjiChoqzyzBAgoaKs8swShxkSmxhRzVnZ01OYWhrNS8ydzhmNUo1RDBBSm89Wh8iHQ5BUngyaXNnTGZiR1prL3M3Z0Y3MUhLeUJMZlU9ZSpKbh0SqAEIXhKjAQoccExPVEJwTjAreVFaQ2trelNzWlRpTFdJN3FrPRIkOGJhOWM2YWMtMGFlZi00NzdkLTg1Y2MtMjVhNzkzOWQzOTU5GAAgACgAMJ28rpH4MDj+rfnN1zBA/q35zdcwShxFY3BKY2h5UXRqYVpRQ3ZXWDFDeWFQdkcrQ289Wh8iHf1BVWJuc2kxaWtseHhtTGlvZWVxUFJtejR4T289ZWkbIvMSqAEIXBKjAQocN3d5SGxRM2ZFYllyYm9sVkRQbUJ6TWkrMzBRPRIkZDQ4MzNjYWQtMjY0Zi00NjAxLTk0NWEtZGZmYjUxYWU5ZTRlGAAgACgAMOz5xcnXMDjv68XJ1zBA7+vFydcwShwxKytDcEpBZzQ5eG00NW53b2FyNld6K29pbVk9Wh8iHfc3YUtEZ2gwYWV6NDV0ZDBlbmRpTXYxNWxFdFU9Zb0187USgwEIAhJ/ChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRiY2JjYjQyMS0zNzQwLTQ5YjQtYTVhMC0xZmU4MTgwYjg3ZWIYACAAKAAwATiNzvmM/C9Ajc75jPwvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQh/EqMBChxWaDYyRUluVG5yWG0vbldWVStNT3ViVEVVSE09EiRhMzExNmU1OC1kOGU5LTQ3ZTItODQ5Zi0zZWUzZDIyZWExNzQYACAAKAAwgarO2aYwONufztmmMEDbn87ZpjBKHElZbW1RVElzMUJKNjA2Z0o0LzM5eTA4dEszVT1aHyId62xyekdOV3RqZHhQUkExL1RXUy9oekVlWG56OD1lOPk5MxKoAQh7EqMBChxHM2J1LytrWE9tazBSRFVwZzF3K25Md2FRcDQ9EiQyM2U0YWVmZC1iMzkxLTQzMWItYjZkMy04ZjliNWU1MmM2NTIYACAAKAAwrK+fgK8yOOi0nMr7MEDotJzK+zBKHHVPUFNxcWxXMVc2ekV2NGFGdGJoeXhOS24xND1aHyId92JVTTdQOFJnZlBxNHlPOE5FekpPV0lKd1QyTT1lmz2FthKoAQh3EqMBChxXeFI4ZWZTRk12TnZXV1VoUXU1bXdGQW1MU289EiQwZjg3NDA2Ni04NWY4LTQ1YmItYTgzMy02Yzc0ZmIyOTNiNmQYACAAKAAwla+fgK8yOL3BhdrcMUC9wYXa3DFKHG9jZzRBSGV4Z1ozZ3V6V21TVU5yeFdaTnU2MD1aHyIdeitHa0YrQ2lqRzVqWkhvZWZzaDd5WkNGL25NQT1lh3wYbhKoAQh6EqMBChwxRExYRldsQnh1NFZHclovbVM0Rmh3aXpaMlU9EiQ5MTJiNjdjMi1jODNiLTQ4NDItYjU2My0xYjhlZDliODM2NTkYACAAKAAwhK+fgK8yOM/Upv7UMEDP1Kb+1DBKHG8vQUZmNGNxb25nWlVPMkdkcWhEd1MwdnZZTT1aHyId7kUwNlp3UFZrV3ZadVZQc1crNm84dy83NTBPbz1lmz2FthKoAQh5EqMBChxmTTBBbGpmN21zLzRYWWlWczlNRXlkYTA4Mmc9EiRlZWI5NDUwNy04NTJkLTQ4NDctYTk4ZS00MjJjYTk3MjQxMzcYACAAKAAwj6+fgK8yOJ22pP7UMECdtqT+1DBKHHVrZk91L3k3RC9ZOTMvUWhnYk13U3dSZEh2VT1aHyIdy1lQdjVzRE1qUWkyV2VtYnJrQ2hWWE1YOGFaUT1lmz2FthKpAQhmEqQBChxyQVB1VTZoTitYY0cxQzVwZ1czL0g4QzY0RGc9EiQyNDFjMmUzNS0zMWExLTRiOTItYWQxZi1hYTEwZWUyZDE2ZTUYACAAKAAwve/o3o4xOM/S6N6OMUDP0ujejjFKHEsydGNpMVlJNVlUOU9iYk1aalpXL25iMFhoUT1aICIe//tHTnFPZThXYUZlTXRPWlY2N2NiRlNEdFpZZ2c9ZfvkZLESqQEIhQESowEKHFBIYlFBQTlpM3hCV3p2NEwvdndCWGJUTTVOZz0SJDRjNzJlZGQzLTNiOTctNGMwNy1iMmVkLWUzMzE2OTEyZWFjOBgAIAAoADCAr5+ArzI4/tLb1qoyQP7S29aqMkocb2VoNFdGZVVyalBRd0FVVlNOS3pIVEJzWEpnPVofIh2oL1NjV2tFSkF5Q3lhMkR3Q1IyZ00xSXI1QURjPWXt4uhdEqcBCFgSogEKHFN5Y0xHSmZPcDVROVZaL3NhSWZneVV6YVRlUT0SJDc5NTI4ZTQ0LWJlODEtNDg4OS1iYTFmLTBmZWFkNzczOWI0MxgAIAAoADCsm/uz1TA4gtj6s9UwQILY+rPVMEocUWJzUE10eWdVRUFuc2krcTAwNFVlNTNYUDRzPVoeIhx5YUtVa2p4Zmp1MDF1ODdPOG52YTZhdDE0Umc9ZXn7ijQSqQEIaRKkAQocaVVwWVhxanZROXpXeXJTODRjUWliRzlGZEJjPRIkNmEwMTgyOGQtZmUwOC00YTg2LWI0NTktMTBjNjVkYWZmNjZkGAAgACgAMI7NzcbMMTjwjs3GzDFA8I7NxswxShx2VnRsMGk1ZVgyUTRHbmJUbm1aTEQ2d0NZTlk9WiAiHv//VXVYenp4Snl3MFBBUWVJUkVmS05yc1NpNEhVPWWxCXZmEqkBCGISpAEKHEtpcENEcGRtQkxOSDV2cWJiL21Bd05RM1picz0SJDkzZWRmMmM1LTFjMjYtNGE3Zi1iNWY3LTEzMWEzYjg2MjQ1YhgAIAAoADD0svDKqDE408ze5fcwQNPM3uX3MEocV3ZFME9WeGtXbDA2Y2ltK0lqUnBvTkFtSG1BPVogIh7/uDN0SkxkcmZPRDJYcXByTFIzWTNTQ3FnNU1JUT1lLhIAYBKnAQh2EqIBChxFS3RNQ3JtUC9WR25ETHJ3cC9LMTNZd2Z1TUk9EiQ3NmYyZDlkMy1iYmJiLTQ1ZTctODEzOC0yNWIzMzhhZWY1ZWQYACAAKAAwo6+fgK8yOPCk8tDoMEDwpPLQ6DBKHG9UNDlubWJKZmdSVEdEcjNBR0NQU29QQmpVVT1aHiIcb1hEajZ6bjIvNkxwbkxiM3Y5L3B0YXZGbFRZPWUV0USaEqoBCGwSpQEKHE5ZRWlZcGJqQlc5WEtUVjA4SVFLbjdQc3hXVT0SJGNlOWI1NThiLWVlZWEtNDE1MC05YzJjLWZmMGRkODk0OWI2YhgAIAAoADDa3r7D6TE4p5S+w+kxQKeUvsPpMUocWmNsc05QRlI4N2g5eG1WYTFsSEsyT0tqc2hZPVohIh///+phK05nb2kwVnB5bnByaUFGUkF3VVhPZXBCVXc9ZWkbIvMSqgEIahKlAQocVEY3RGJaSkR6NWRiQkprYTBiMGpoUzUzQzNnPRIkOTQ4MzkwNWQtZGViZC00NWUzLWFmYjItZDRhNTY2ODZiNDUyGAAgACgAMJSfydPdMTjwtsjT3TFA8LbI090xShxmNysrdjFBbk9HeWFqQVE1RDI3eXdFOHVsQUE9WiEiH///qlVIaFkrYk1ZekdvZStXZVdjdm5rdW41cHhQUT1lubOeXhKoAQh0EqMBChx1VktxN1U2NE13SDJXNkRPODk3SkFQUEV6V289EiQ3YTA4YTVkYy1hZTMwLTQ5M2EtODk2MS02NmU0MGIyZTg4MzcYACAAKAAw8a6fgK8yOOiK2Yq3MEDoitmKtzBKHE1RTzR6cFBSWDVQMFV2bWlQR2REMUFyYURDOD1aHyIdF1dCMUVqaDdwU1BLQ2NKeE9ZTXJOdzNNWGRURT1lBEdY+RKoAQh4EqMBChxQeEI1OFQ2emRKNWQ4VVJlSnBoS3cwUXRuS0E9EiRmZjQzNDFlMS0wMGM0LTQxNzktODYyMi05OTMxOTE0OThmOTcYACAAKAAwnq+fgK8yOOvk5YTDMUDr5OWEwzFKHHZjd2VJTEVQU3dKNlBmc3lnT25uV3RNemEzND1aHyIdhmNDR1dLY0tiUFdyaU45Qnk2cHZpL1l5Y1RMMD1lfC1UgBKDAQgBEn8KHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGE0YmRlYmFlLTQyNmUtNGUwNi04NDRiLWM5M2NkNDNhMzQxZBgAIAAoADABOI3O+Yz8L0CNzvmM/C9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCHESowEKHE9nM1BhaGNYdkNsRlVnSitpTkZQK2dzYVc4UT0SJDZmYzE4MTQxLTM5YTMtNDk5Ni1hZDQyLWZmNzM0OGE1ZGE5MxgAIAAoADCE6pDxtzI40fCN0oAyQNHwjdKAMkocWGZTeEF6a3U2VVN3eXZISENnSm1OdURUYjVZPVofIh0HOERCWjBNbklWYnZaQTRDL0t0b1Vab1l4dm5RPWV+eotEEqkBCIYBEqMBChxGY2N0bWMwUjVlK1lTMHdrd2U0aWVTVHhkUWc9EiQ5Y2UzMTlmNi01NjNjLTRiMWYtYTg3NS1lNWMyOTY1ZDA4MTcYACAAKAAw9q6fgK8yOMbRnKasMkDG0ZymrDJKHDNYK2o5YjczdmoxbTFqbGFmN2tHUXR3UGZERT1aHyId+2l5dElhbFJGYnhIV0tjczE3SmtHdUNQQ2NuMD1lmz2FthKoAQhzEqMBChxFQTBoMzUvbHNxU2lQV081S3RpcEFsOUd0aXM9EiQ4N2M0ZDdjMi02MGY0LTRjM2YtYmU0Mi1mYmYwNWE1YTgwNDkYACAAKAAw0/zrrbYyOLWq3oq3MEC1qt6KtzBKHGVXd0hjL3dvaWdrZkt3T21odExrUWFMZG1rQT1aHyIdETk4cWZUMTkyN2xNYVBvUnRmZUs3eEJObThWTT1lD2ImeBKnAQh1EqIBChxYNjZLcUVBZEFkTkJqK3Bzby9TZG1SRnp4QjA9EiQ2MjcwYTUyOC01YmMxLTQwNTgtOWJmZi05ODhiNmJkODNmMTEYACAAKAAwmq+fgK8yONaLwJu7MEDWi8CbuzBKHGNzMk92UUMrQ3VPc2cyeCtJT0gra1BkMzRiST1aHiIcQmJqdE1KS2huMWJsSWZSazVWVkZ1eGpnT044PWV7KcWLMAE4AA==",
+   "version": 1
+}
