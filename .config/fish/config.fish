@@ -18,26 +18,21 @@ set -g __fish_git_prompt_char_invalidstate '✖'
 set -g __fish_git_prompt_char_stagedstate '●'
 set -g __fish_git_prompt_char_stashstate '⚑'
 set -g __fish_git_prompt_char_untrackedfiles '?'
-set -g __fish_git_prompt_char_upstream_ahead ''
-set -g __fish_git_prompt_char_upstream_behind ''
-set -g __fish_git_prompt_char_upstream_diverged 'ﱟ'
-set -g __fish_git_prompt_char_upstream_equal ''
+set -g __fish_git_prompt_char_upstream_ahead '>>'
+set -g __fish_git_prompt_char_upstream_behind '<<'
+set -g __fish_git_prompt_char_upstream_diverged '!'
+set -g __fish_git_prompt_char_upstream_equal '='
 set -g __fish_git_prompt_char_upstream_prefix ''''
 
 # User abbreviations
 abbr -a -g h 'history'																								# Show history
-# abbr -a -g please 'sudo'																						# Polite way to sudo
-# abbr -a -g fucking 'sudo'																						# Rude way to sudo
-# abbr -a -g fish_priv 'fish --private'																				# Fish incognito mode
+abbr -a -g please 'sudo'																						# Polite way to sudo
+abbr -a -g fucking 'sudo'																						# Rude way to sudo
+abbr -a -g fish_priv 'fish --private'																				# Fish incognito mode
 abbr -a -g untar 'tar -zxvf'																					# Untar
 abbr -a -g edit 'micro'
-abbr -a -g godot 'godot --rendering-driver opengl3 &'
 abbr -a -g install 'sudo pacman -S'
-# abbr -a -g ls 'ls -A'
-# abbr -a -g pdi 'cd /home/okleros/Documents/dev/c++/image_processor'
-abbr -a -g xdg-prefs '/home/okleros/.local/bin/xdg-prefs'
+abbr -a -g ls 'ls -la'
 
-# if status is-interactive
-# cd /home/ramos/
 #end
 
