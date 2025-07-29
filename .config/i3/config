@@ -48,7 +48,7 @@ workspace_layout default
 ##############################
 
 #border indicator on windows:
-new_window pixel 1
+new_window pixel 2
 
 # thin borders
 # hide_edge_borders both
@@ -290,7 +290,7 @@ bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 bindsym $mod+p exec --no-startup-id ~/.config/i3/scripts/audio-device-switch
 
 ## App shortcuts
-bindsym $mod+w exec --no-startup-id /usr/bin/brave-browser
+bindsym $mod+w exec --no-startup-id /usr/bin/brave
 bindsym $mod+n exec --no-startup-id /usr/bin/thunar
 bindsym $mod+Shift+v exec --no-startup-id /usr/bin/xfce4-clipman-history
 bindsym $mod+b exec --no-startup-id /usr/bin/blueman-manager
@@ -339,7 +339,7 @@ set $ws10 "10"
 
 # bind program to workspace and focus to them on startup:
 assign [class="kitty"] $ws1
-assign [class="brave-browser"] $ws2
+assign [class="Brave-browser"] $ws2
 assign [class="Thunar"] $ws3
 assign [class="obs"] $ws4
 assign [class="steam"] $ws5
@@ -347,7 +347,7 @@ assign [class="Stardew Valley"] $ws6
 
 # automatic set focus new window if it opens on another workspace than the current:
 for_window [class=kitty] focus
-for_window [class=brave-browser] focus
+for_window [class=Brave-browser] focus
 for_window [class=Thunar] focus
 for_window [class=obs] focus
 for_window [class=steam] focus
@@ -384,6 +384,12 @@ for_window [class=steam] focus
 #############################################
 # autostart applications/services on login: #
 #############################################
+
+#enable autotiling script
+exec_always autotiling
+
+#enable clipboard manager
+exec --no-startup-id /usr/bin/xfce4-clipman
 
 #get auth work with polkit-gnome
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
@@ -516,7 +522,7 @@ set $yellowbrown	#e1b700
 
 # define colors for windows:
 #class		        	border		bground	text		indicator	child_border
-client.focused		$lightblue	$darkblue	$white		$mediumgrey	$mediumgrey
+client.focused		$lightblue	$darkblue	$white		$lightblue	$lightblue
 client.unfocused	    	$darkblue	$darkblue	$grey		$darkgrey	$darkgrey
 client.focused_inactive	$darkblue	$darkblue	$grey		$black		$black
 client.urgent		    	$urgentred	$urgentred	$white		$yellowbrown	$yellowbrown

@@ -30,8 +30,9 @@ abbr -a -g please 'sudo'																						# Polite way to sudo
 abbr -a -g fucking 'sudo'																						# Rude way to sudo
 abbr -a -g fish_priv 'fish --private'																				# Fish incognito mode
 abbr -a -g untar 'tar -zxvf'																					# Untar
-abbr -a -g edit 'micro'
+abbr -a -g edit 'subl'
 abbr -a -g install 'sudo pacman -S'
+abbr -a -g ynstall 'yay -S'
 abbr -a -g ls 'ls -la'
 
 #end
