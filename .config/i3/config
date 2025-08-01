@@ -292,10 +292,11 @@ bindsym $mod+p exec --no-startup-id ~/.config/i3/scripts/audio-device-switch
 ## App shortcuts
 bindsym $mod+w exec --no-startup-id /usr/bin/brave
 bindsym $mod+n exec --no-startup-id /usr/bin/thunar
+bindsym $mod+z exec --no-startup-id /usr/bin/boomer
 bindsym $mod+Shift+v exec --no-startup-id /usr/bin/xfce4-clipman-history
 bindsym $mod+b exec --no-startup-id /usr/bin/blueman-manager
 bindsym $mod+Print exec --no-startup-id scrot ~/Pictures/screenshots/%Y-%m-%d-%T-screenshot.png && notify-send "Screenshot saved to ~/Pictures/screenshots/$(date +"%Y-%m-%d-%T")-screenshot.png"
-bindsym Print exec --no-startup-id scrot -s ~/Pictures/screenshots/%Y-%m-%d-%T-screenshot.png && notify-send "Screenshot saved to ~/Pictures/screenshots/$(date +"%Y-%m-%d-%T")-screenshot.png"
+bindsym Print exec --no-startup-id scrot -f -s ~/Pictures/screenshots/%Y-%m-%d-%T-screenshot.png && notify-send "Screenshot saved to ~/Pictures/screenshots/$(date +"%Y-%m-%d-%T")-screenshot.png"
 
 # Power Profiles menu switcher (rofi)
 bindsym $mod+Shift+p exec --no-startup-id ~/.config/i3/scripts/power-profiles
@@ -387,6 +388,9 @@ for_window [class=steam] focus
 
 #enable autotiling script
 exec_always autotiling
+
+#enable redshift
+exec --no-startup-id redshift-gtk
 
 #enable clipboard manager
 exec --no-startup-id /usr/bin/xfce4-clipman
@@ -600,6 +604,8 @@ strip_workspace_numbers yes
 
 bindsym $mod+d exec --no-startup-id rofi -modi drun -show drun \
 		-config ~/.config/rofi/rofidmenu.rasi
+bindsym $mod+c exec --no-startup-id rofi -show run \
+              -config ~/.config/rofi/rofidmenu.rasi
 
 #bindsym F9 exec --no-startup-id rofi -modi drun -show drun \
 #		-config ~/.config/rofi/rofidmenu.rasi

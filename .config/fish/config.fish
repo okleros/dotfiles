@@ -33,6 +33,7 @@ abbr -a -g untar 'tar -zxvf'																					# Untar
 abbr -a -g edit 'subl'
 abbr -a -g install 'sudo pacman -S'
 abbr -a -g ynstall 'yay -S'
+abbr -a -g venv 'source .venv/bin/activate.fish'
 abbr -a -g ls 'ls -la'
 
 #end
