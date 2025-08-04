@@ -113,11 +113,9 @@
      "4df2cb7ac1a6a1651a5a288f7ae8b475b1b821641849b348474e25d5549bd2d9"
      default))
  '(ispell-dictionary nil)
- '(package-selected-packages
-   '(ace-window all-the-icons auto-complete flycheck gruber-darker-theme
-                multiple-cursors neotree smex timu-caribbean-theme try))
- '(timu-caribbean-mode-line-border t t)
- '(timu-caribbean-org-intense-colors nil t))
+ '(package-selected-packages nil)
+ '(timu-caribbean-mode-line-border t)
+ '(timu-caribbean-org-intense-colors nil))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
